@@ -999,6 +999,3 @@ Transaction ID,Date,Customer ID,Gender,Age,Product Category,Quantity,Price per U
 998,2023-10-29,CUST998,Female,23,Beauty,4,25,100,Surabaya,E-Wallet
 999,2023-12-05,CUST999,Female,36,Electronics,3,50,150,Surabaya,E-Wallet
 1000,2023-04-12,CUST1000,Male,47,Electronics,4,30,120,Jakarta,E-Wallet
-6,2023-12-01,CUST006,Female,25,Toys,1,200,200,,
-7,2023-11-28,CUST007,Male,40,Toys,3,300,900,,
-8,2023-12-05,CUST008,Female,22,Fast Food,2,400,800,,
