@@ -1,0 +1,1001 @@
+Transaction ID,Date,Customer ID,Gender,Age,Product Category,Quantity,Price per Unit,Total Amount,City,Payment Method
+1,2023-11-24,CUST001,Male,34,Household Items,3,993000,2979000,Jakarta,E-Wallet
+2,2023-02-27,CUST002,Female,26,Household Items,2,941000,1882000,Surabaya,E-Wallet
+3,2023-01-13,CUST003,Male,50,Clothing,1,190000,190000,Denpasar,E-Wallet
+4,2023-05-21,CUST004,Male,37,Clothing,1,78000,78000,Jakarta,E-Wallet
+5,2023-05-06,CUST005,Male,30,Toys,2,149000,298000,Yogyakarta,E-Wallet
+6,2023-04-25,CUST006,Female,45,Household Items,1,808000,808000,Yogyakarta,E-Wallet
+7,2023-03-13,CUST007,Male,46,Toys,2,227000,454000,Yogyakarta,E-Wallet
+8,2023-02-22,CUST008,Male,30,Electronics,4,1071000,4284000,Denpasar,E-Wallet
+9,2023-12-13,CUST009,Male,63,Snacks,2,15000,30000,Semarang,Cash
+10,2023-10-07,CUST010,Female,52,Electronics,4,754000,3016000,Medan,Credit Card
+11,2023-02-14,CUST011,Male,23,Household Items,2,986000,1972000,Yogyakarta,E-Wallet
+12,2023-10-30,CUST012,Male,35,Household Items,3,528000,1584000,Yogyakarta,E-Wallet
+13,2023-08-05,CUST013,Male,22,Clothing,3,73000,219000,Yogyakarta,E-Wallet
+14,2023-01-17,CUST014,Male,64,Toys,4,73000,292000,Medan,Cash
+15,2023-01-16,CUST015,Female,42,Electronics,4,523000,2092000,Surabaya,Credit Card
+16,2023-02-17,CUST016,Male,19,Beauty,3,26000,78000,Bandung,E-Wallet
+17,2023-04-22,CUST017,Female,27,Household Items,4,114000,456000,Medan,E-Wallet
+18,2023-04-30,CUST018,Female,47,Electronics,2,1367000,2734000,Bandung,Credit Card
+19,2023-09-16,CUST019,Female,62,Toys,2,134000,268000,Yogyakarta,Cash
+20,2023-11-05,CUST020,Male,22,Beauty,3,32000,96000,Medan,E-Wallet
+21,2023-01-14,CUST021,Female,50,Snacks,1,14000,14000,Yogyakarta,E-Wallet
+22,2023-10-15,CUST022,Male,18,Beauty,2,40000,80000,Semarang,E-Wallet
+23,2023-04-12,CUST023,Female,35,Clothing,4,435000,1740000,Surabaya,Credit Card
+24,2023-11-29,CUST024,Female,49,Fast Food,1,42000,42000,Denpasar,E-Wallet
+25,2023-12-26,CUST025,Female,64,Beauty,1,41000,41000,Surabaya,Cash
+26,2023-10-07,CUST026,Female,28,Clothing,2,144000,288000,Medan,E-Wallet
+27,2023-08-03,CUST027,Female,38,Electronics,2,1196000,2392000,Yogyakarta,Credit Card
+28,2023-04-23,CUST028,Female,43,Fast Food,1,24000,24000,Yogyakarta,E-Wallet
+29,2023-08-18,CUST029,Female,42,Fast Food,1,94000,94000,Denpasar,E-Wallet
+30,2023-10-29,CUST030,Female,39,Toys,3,183000,549000,Jakarta,E-Wallet
+31,2023-05-23,CUST031,Male,44,Electronics,4,1512000,6048000,Jakarta,E-Wallet
+32,2023-01-04,CUST032,Male,30,Snacks,3,13000,39000,Medan,E-Wallet
+33,2023-03-23,CUST033,Female,50,Snacks,2,15000,30000,Medan,E-Wallet
+34,2023-12-24,CUST034,Female,51,Electronics,3,947000,2841000,Jakarta,Credit Card
+35,2023-08-05,CUST035,Female,58,Fast Food,3,78000,234000,Jakarta,E-Wallet
+36,2023-06-24,CUST036,Male,52,Snacks,3,18000,54000,Bandung,E-Wallet
+37,2023-05-23,CUST037,Female,18,Toys,3,171000,513000,Jakarta,E-Wallet
+38,2023-03-21,CUST038,Male,38,Toys,4,239000,956000,Semarang,E-Wallet
+39,2023-04-21,CUST039,Male,23,Clothing,4,75000,300000,Medan,E-Wallet
+40,2023-06-22,CUST040,Male,45,Electronics,1,1263000,1263000,Surabaya,E-Wallet
+41,2023-02-22,CUST041,Male,34,Beauty,2,29000,58000,Jakarta,E-Wallet
+42,2023-02-17,CUST042,Male,22,Clothing,3,49000,147000,Bandung,E-Wallet
+43,2023-07-14,CUST043,Female,48,Toys,1,235000,235000,Bandung,E-Wallet
+44,2023-02-19,CUST044,Female,22,Household Items,1,641000,641000,Bandung,E-Wallet
+45,2023-07-03,CUST045,Female,55,Toys,1,129000,129000,Semarang,E-Wallet
+46,2023-06-26,CUST046,Female,20,Electronics,4,1473000,5892000,Bandung,Credit Card
+47,2023-11-06,CUST047,Female,40,Electronics,3,775000,2325000,Surabaya,Credit Card
+48,2023-05-16,CUST048,Male,54,Fast Food,3,70000,210000,Bandung,E-Wallet
+49,2023-01-23,CUST049,Female,54,Clothing,2,416000,832000,Denpasar,E-Wallet
+50,2023-08-24,CUST050,Female,27,Clothing,3,289000,867000,Bandung,E-Wallet
+51,2023-10-02,CUST051,Male,27,Beauty,3,46000,138000,Jakarta,E-Wallet
+52,2023-03-05,CUST052,Female,36,Electronics,1,472000,472000,Bandung,E-Wallet
+53,2023-07-13,CUST053,Male,34,Electronics,2,1524000,3048000,Jakarta,E-Wallet
+54,2023-02-10,CUST054,Female,38,Electronics,3,1713000,5139000,Bandung,Credit Card
+55,2023-10-10,CUST055,Male,31,Household Items,4,933000,3732000,Medan,E-Wallet
+56,2023-05-31,CUST056,Female,26,Beauty,3,39000,117000,Denpasar,E-Wallet
+57,2023-11-18,CUST057,Female,63,Fast Food,1,89000,89000,Denpasar,Cash
+58,2023-11-13,CUST058,Male,18,Snacks,4,8000,32000,Yogyakarta,E-Wallet
+59,2023-07-05,CUST059,Male,62,Clothing,1,99000,99000,Denpasar,Cash
+60,2023-10-23,CUST060,Male,30,Toys,3,63000,189000,Denpasar,E-Wallet
+61,2023-04-09,CUST061,Male,21,Household Items,4,928000,3712000,Semarang,E-Wallet
+62,2023-12-27,CUST062,Male,18,Household Items,2,397000,794000,Medan,E-Wallet
+63,2023-02-05,CUST063,Male,57,Electronics,2,1796000,3592000,Surabaya,E-Wallet
+64,2023-01-24,CUST064,Male,49,Clothing,4,368000,1472000,Jakarta,E-Wallet
+65,2023-12-05,CUST065,Male,51,Household Items,4,246000,984000,Yogyakarta,E-Wallet
+66,2023-04-27,CUST066,Female,45,Fast Food,1,89000,89000,Medan,E-Wallet
+67,2023-05-29,CUST067,Female,48,Household Items,4,719000,2876000,Semarang,Credit Card
+68,2023-02-10,CUST068,Male,25,Toys,1,56000,56000,Semarang,E-Wallet
+69,2023-04-30,CUST069,Female,56,Household Items,3,158000,474000,Denpasar,E-Wallet
+70,2023-02-21,CUST070,Female,43,Beauty,1,27000,27000,Yogyakarta,E-Wallet
+71,2023-07-14,CUST071,Female,51,Snacks,4,9000,36000,Semarang,E-Wallet
+72,2023-05-23,CUST072,Female,20,Household Items,4,594000,2376000,Bandung,E-Wallet
+73,2023-08-21,CUST073,Male,29,Beauty,3,15000,45000,Semarang,E-Wallet
+74,2023-11-22,CUST074,Female,18,Clothing,4,112000,448000,Semarang,E-Wallet
+75,2023-07-06,CUST075,Male,61,Beauty,4,14000,56000,Surabaya,Cash
+76,2023-03-25,CUST076,Female,22,Beauty,2,33000,66000,Medan,E-Wallet
+77,2023-07-09,CUST077,Female,47,Clothing,2,58000,116000,Yogyakarta,E-Wallet
+78,2023-07-01,CUST078,Female,47,Clothing,3,244000,732000,Yogyakarta,E-Wallet
+79,2023-04-18,CUST079,Male,34,Clothing,1,57000,57000,Surabaya,E-Wallet
+80,2023-12-10,CUST080,Female,64,Snacks,2,7000,14000,Denpasar,Cash
+81,2023-05-17,CUST081,Male,40,Clothing,1,421000,421000,Bandung,E-Wallet
+82,2023-12-26,CUST082,Female,32,Toys,4,155000,620000,Semarang,E-Wallet
+83,2023-12-16,CUST083,Male,54,Beauty,2,21000,42000,Surabaya,E-Wallet
+84,2023-11-28,CUST084,Female,38,Clothing,3,218000,654000,Denpasar,E-Wallet
+85,2023-02-06,CUST085,Male,31,Clothing,3,256000,768000,Semarang,E-Wallet
+86,2023-11-08,CUST086,Male,19,Clothing,3,281000,843000,Medan,E-Wallet
+87,2023-11-22,CUST087,Female,28,Clothing,2,28000,56000,Jakarta,E-Wallet
+88,2023-03-29,CUST088,Male,56,Beauty,1,23000,23000,Jakarta,E-Wallet
+89,2023-10-01,CUST089,Female,55,Toys,4,62000,248000,Semarang,E-Wallet
+90,2023-05-06,CUST090,Female,51,Clothing,1,340000,340000,Denpasar,E-Wallet
+91,2023-03-25,CUST091,Female,55,Household Items,1,183000,183000,Denpasar,E-Wallet
+92,2023-08-25,CUST092,Female,51,Snacks,4,10000,40000,Surabaya,E-Wallet
+93,2023-07-14,CUST093,Female,35,Toys,4,203000,812000,Medan,E-Wallet
+94,2023-05-19,CUST094,Female,47,Household Items,2,475000,950000,Medan,E-Wallet
+95,2023-11-24,CUST095,Female,32,Household Items,2,661000,1322000,Semarang,Credit Card
+96,2023-12-19,CUST096,Female,44,Clothing,2,46000,92000,Jakarta,E-Wallet
+97,2023-10-13,CUST097,Female,51,Clothing,2,371000,742000,Semarang,E-Wallet
+98,2023-04-23,CUST098,Female,55,Snacks,2,8000,16000,Semarang,E-Wallet
+99,2023-12-17,CUST099,Female,50,Beauty,4,46000,184000,Yogyakarta,E-Wallet
+100,2023-06-16,CUST100,Male,41,Toys,1,263000,263000,Yogyakarta,E-Wallet
+101,2023-01-29,CUST101,Male,32,Beauty,2,35000,70000,Medan,E-Wallet
+102,2023-04-28,CUST102,Female,47,Beauty,2,37000,74000,Yogyakarta,E-Wallet
+103,2023-01-17,CUST103,Female,59,Beauty,1,36000,36000,Denpasar,E-Wallet
+104,2023-06-11,CUST104,Female,34,Household Items,2,586000,1172000,Surabaya,Credit Card
+105,2023-07-25,CUST105,Female,22,Beauty,1,16000,16000,Semarang,E-Wallet
+106,2023-05-18,CUST106,Female,46,Household Items,1,461000,461000,Yogyakarta,E-Wallet
+107,2023-02-03,CUST107,Female,21,Fast Food,4,42000,168000,Bandung,E-Wallet
+108,2023-04-19,CUST108,Female,27,Electronics,3,1843000,5529000,Yogyakarta,Credit Card
+109,2023-10-18,CUST109,Female,34,Toys,4,266000,1064000,Semarang,Credit Card
+110,2023-06-11,CUST110,Male,27,Snacks,3,8000,24000,Surabaya,E-Wallet
+111,2023-04-19,CUST111,Female,34,Toys,3,269000,807000,Bandung,E-Wallet
+112,2023-12-02,CUST112,Male,37,Beauty,3,27000,81000,Bandung,E-Wallet
+113,2023-09-13,CUST113,Female,41,Household Items,2,448000,896000,Jakarta,E-Wallet
+114,2023-07-22,CUST114,Female,22,Toys,4,292000,1168000,Bandung,E-Wallet
+115,2023-11-26,CUST115,Male,51,Fast Food,3,69000,207000,Denpasar,E-Wallet
+116,2023-08-23,CUST116,Female,23,Electronics,1,1665000,1665000,Medan,E-Wallet
+117,2023-03-15,CUST117,Male,19,Snacks,2,19000,38000,Surabaya,E-Wallet
+118,2023-05-16,CUST118,Female,30,Clothing,4,103000,412000,Medan,E-Wallet
+119,2023-03-13,CUST119,Female,60,Fast Food,3,36000,108000,Bandung,E-Wallet
+120,2023-05-07,CUST120,Male,60,Clothing,1,303000,303000,Bandung,E-Wallet
+121,2023-10-15,CUST121,Female,28,Fast Food,4,51000,204000,Semarang,E-Wallet
+122,2023-10-03,CUST122,Male,64,Beauty,4,14000,56000,Medan,Cash
+123,2023-05-15,CUST123,Female,40,Beauty,2,30000,60000,Jakarta,E-Wallet
+124,2023-10-27,CUST124,Male,33,Clothing,4,332000,1328000,Medan,E-Wallet
+125,2023-08-08,CUST125,Male,48,Clothing,2,399000,798000,Medan,E-Wallet
+126,2023-10-26,CUST126,Female,28,Household Items,3,707000,2121000,Bandung,E-Wallet
+127,2023-07-24,CUST127,Female,33,Electronics,2,1185000,2370000,Bandung,Credit Card
+128,2023-07-05,CUST128,Male,25,Electronics,1,1510000,1510000,Yogyakarta,E-Wallet
+129,2023-04-23,CUST129,Female,21,Toys,2,296000,592000,Surabaya,E-Wallet
+130,2023-03-12,CUST130,Female,57,Toys,1,190000,190000,Bandung,E-Wallet
+131,2023-09-18,CUST131,Female,21,Snacks,2,12000,24000,Semarang,E-Wallet
+132,2023-09-10,CUST132,Male,42,Household Items,4,745000,2980000,Semarang,E-Wallet
+133,2023-02-16,CUST133,Male,20,Electronics,3,1330000,3990000,Denpasar,E-Wallet
+134,2023-01-25,CUST134,Male,49,Toys,1,121000,121000,Yogyakarta,E-Wallet
+135,2023-02-26,CUST135,Male,20,Electronics,2,1840000,3680000,Semarang,E-Wallet
+136,2023-03-20,CUST136,Male,44,Household Items,2,982000,1964000,Surabaya,E-Wallet
+137,2023-11-18,CUST137,Male,46,Toys,2,92000,184000,Denpasar,E-Wallet
+138,2023-03-23,CUST138,Male,49,Electronics,4,1333000,5332000,Surabaya,E-Wallet
+139,2023-12-15,CUST139,Male,36,Beauty,4,39000,156000,Medan,E-Wallet
+140,2023-08-05,CUST140,Male,38,Clothing,1,169000,169000,Bandung,E-Wallet
+141,2023-11-02,CUST141,Female,22,Fast Food,1,74000,74000,Surabaya,E-Wallet
+142,2023-02-02,CUST142,Male,35,Household Items,4,792000,3168000,Yogyakarta,E-Wallet
+143,2023-07-17,CUST143,Female,45,Fast Food,1,57000,57000,Denpasar,E-Wallet
+144,2023-07-15,CUST144,Female,59,Clothing,3,210000,630000,Surabaya,E-Wallet
+145,2023-11-02,CUST145,Female,39,Clothing,3,312000,936000,Denpasar,E-Wallet
+146,2023-08-28,CUST146,Male,38,Beauty,4,39000,156000,Jakarta,E-Wallet
+147,2023-09-28,CUST147,Male,23,Snacks,1,16000,16000,Semarang,E-Wallet
+148,2023-05-09,CUST148,Male,18,Household Items,2,777000,1554000,Yogyakarta,E-Wallet
+149,2023-10-11,CUST149,Male,22,Clothing,3,89000,267000,Surabaya,E-Wallet
+150,2023-01-06,CUST150,Female,58,Snacks,4,11000,44000,Yogyakarta,E-Wallet
+151,2023-12-15,CUST151,Male,29,Electronics,1,422000,422000,Denpasar,E-Wallet
+152,2023-02-28,CUST152,Male,43,Beauty,4,25000,100000,Bandung,E-Wallet
+153,2023-12-16,CUST153,Male,63,Household Items,2,630000,1260000,Semarang,Credit Card
+154,2023-10-02,CUST154,Male,51,Electronics,3,1817000,5451000,Jakarta,E-Wallet
+155,2023-05-17,CUST155,Male,31,Toys,4,227000,908000,Yogyakarta,E-Wallet
+156,2023-11-25,CUST156,Female,43,Beauty,4,40000,160000,Bandung,E-Wallet
+157,2023-06-24,CUST157,Male,62,Toys,4,51000,204000,Jakarta,Cash
+158,2023-02-27,CUST158,Female,44,Household Items,2,128000,256000,Jakarta,E-Wallet
+159,2023-05-31,CUST159,Male,26,Fast Food,4,51000,204000,Medan,E-Wallet
+160,2023-08-11,CUST160,Female,43,Snacks,2,20000,40000,Denpasar,E-Wallet
+161,2023-03-22,CUST161,Male,64,Clothing,2,27000,54000,Medan,Cash
+162,2023-08-21,CUST162,Male,39,Clothing,2,304000,608000,Surabaya,E-Wallet
+163,2023-01-02,CUST163,Female,64,Clothing,3,437000,1311000,Yogyakarta,Credit Card
+164,2023-05-15,CUST164,Female,47,Snacks,3,12000,36000,Bandung,E-Wallet
+165,2023-09-14,CUST165,Female,60,Snacks,4,14000,56000,Bandung,E-Wallet
+166,2023-04-02,CUST166,Male,34,Toys,4,116000,464000,Medan,E-Wallet
+167,2023-09-17,CUST167,Female,43,Snacks,3,20000,60000,Bandung,E-Wallet
+168,2023-02-24,CUST168,Male,53,Toys,1,252000,252000,Jakarta,E-Wallet
+169,2023-11-17,CUST169,Male,18,Clothing,3,159000,477000,Medan,E-Wallet
+170,2023-06-02,CUST170,Female,25,Household Items,2,789000,1578000,Semarang,E-Wallet
+171,2023-11-24,CUST171,Female,52,Fast Food,3,89000,267000,Surabaya,E-Wallet
+172,2023-09-17,CUST172,Male,32,Clothing,2,49000,98000,Surabaya,E-Wallet
+173,2023-11-08,CUST173,Male,64,Household Items,4,314000,1256000,Surabaya,Credit Card
+174,2023-04-12,CUST174,Female,39,Beauty,1,24000,24000,Yogyakarta,E-Wallet
+175,2023-03-20,CUST175,Female,31,Fast Food,4,32000,128000,Medan,E-Wallet
+176,2023-07-11,CUST176,Female,43,Household Items,2,302000,604000,Denpasar,E-Wallet
+177,2023-03-24,CUST177,Male,45,Electronics,2,1162000,2324000,Surabaya,E-Wallet
+178,2023-10-04,CUST178,Male,40,Electronics,2,278000,556000,Denpasar,E-Wallet
+179,2023-09-29,CUST179,Male,31,Fast Food,1,90000,90000,Bandung,E-Wallet
+180,2023-01-01,CUST180,Male,41,Toys,3,74000,222000,Medan,E-Wallet
+181,2023-11-03,CUST181,Male,19,Clothing,4,103000,412000,Jakarta,E-Wallet
+182,2023-06-15,CUST182,Male,62,Household Items,4,319000,1276000,Surabaya,Credit Card
+183,2023-09-08,CUST183,Female,43,Household Items,3,338000,1014000,Semarang,Credit Card
+184,2023-01-10,CUST184,Male,31,Snacks,4,8000,32000,Surabaya,E-Wallet
+185,2023-02-27,CUST185,Male,24,Snacks,1,8000,8000,Bandung,E-Wallet
+186,2023-07-05,CUST186,Male,20,Clothing,4,143000,572000,Bandung,E-Wallet
+187,2023-06-07,CUST187,Female,64,Snacks,2,13000,26000,Yogyakarta,Cash
+188,2023-05-03,CUST188,Male,40,Electronics,3,1970000,5910000,Jakarta,E-Wallet
+189,2023-01-30,CUST189,Male,63,Clothing,1,265000,265000,Yogyakarta,Cash
+190,2023-05-04,CUST190,Female,60,Fast Food,3,69000,207000,Semarang,E-Wallet
+191,2023-10-18,CUST191,Male,64,Snacks,1,5000,5000,Denpasar,Cash
+192,2023-02-10,CUST192,Male,62,Toys,2,161000,322000,Medan,Cash
+193,2023-02-13,CUST193,Male,35,Fast Food,3,42000,126000,Denpasar,E-Wallet
+194,2023-09-06,CUST194,Male,55,Beauty,4,48000,192000,Bandung,E-Wallet
+195,2023-02-05,CUST195,Male,52,Beauty,1,26000,26000,Denpasar,E-Wallet
+196,2023-09-30,CUST196,Female,32,Clothing,3,149000,447000,Bandung,E-Wallet
+197,2023-03-06,CUST197,Female,42,Beauty,4,13000,52000,Semarang,E-Wallet
+198,2023-03-07,CUST198,Female,54,Clothing,3,331000,993000,Denpasar,E-Wallet
+199,2023-12-04,CUST199,Male,45,Toys,3,83000,249000,Surabaya,E-Wallet
+200,2023-09-01,CUST200,Male,27,Toys,3,265000,795000,Denpasar,E-Wallet
+201,2023-10-09,CUST201,Male,56,Fast Food,1,85000,85000,Medan,E-Wallet
+202,2023-03-26,CUST202,Female,34,Snacks,4,6000,24000,Surabaya,E-Wallet
+203,2023-05-16,CUST203,Male,56,Clothing,2,290000,580000,Surabaya,E-Wallet
+204,2023-09-28,CUST204,Male,39,Beauty,1,32000,32000,Surabaya,E-Wallet
+205,2023-11-07,CUST205,Female,43,Toys,1,207000,207000,Semarang,E-Wallet
+206,2023-08-05,CUST206,Male,61,Beauty,1,22000,22000,Denpasar,Cash
+207,2023-04-19,CUST207,Female,42,Fast Food,2,66000,132000,Medan,E-Wallet
+208,2023-10-04,CUST208,Female,34,Clothing,4,337000,1348000,Semarang,Credit Card
+209,2023-12-20,CUST209,Female,30,Electronics,4,1126000,4504000,Surabaya,E-Wallet
+210,2023-04-13,CUST210,Male,37,Snacks,4,12000,48000,Denpasar,E-Wallet
+211,2024-01-01,CUST211,Male,42,Toys,3,281000,843000,Surabaya,E-Wallet
+212,2023-06-09,CUST212,Male,21,Snacks,3,9000,27000,Jakarta,E-Wallet
+213,2023-07-24,CUST213,Male,27,Toys,3,61000,183000,Jakarta,E-Wallet
+214,2023-12-10,CUST214,Male,20,Clothing,2,25000,50000,Surabaya,E-Wallet
+215,2023-11-29,CUST215,Male,58,Snacks,3,6000,18000,Denpasar,E-Wallet
+216,2023-07-11,CUST216,Male,62,Electronics,2,1773000,3546000,Medan,Credit Card
+217,2023-08-13,CUST217,Female,35,Clothing,4,74000,296000,Bandung,E-Wallet
+218,2023-09-22,CUST218,Male,64,Toys,3,256000,768000,Bandung,E-Wallet
+219,2023-08-20,CUST219,Female,53,Electronics,3,816000,2448000,Denpasar,Credit Card
+220,2023-03-03,CUST220,Male,64,Fast Food,1,66000,66000,Surabaya,Cash
+221,2023-05-07,CUST221,Male,39,Beauty,2,48000,96000,Surabaya,E-Wallet
+222,2023-04-26,CUST222,Male,51,Beauty,4,18000,72000,Bandung,E-Wallet
+223,2023-02-02,CUST223,Female,64,Beauty,1,44000,44000,Jakarta,Cash
+224,2023-06-23,CUST224,Female,25,Clothing,1,154000,154000,Jakarta,E-Wallet
+225,2023-01-11,CUST225,Female,57,Clothing,4,193000,772000,Medan,E-Wallet
+226,2023-10-29,CUST226,Female,61,Snacks,1,13000,13000,Medan,Cash
+227,2023-10-11,CUST227,Male,36,Clothing,2,74000,148000,Yogyakarta,E-Wallet
+228,2023-04-28,CUST228,Female,59,Household Items,2,396000,792000,Denpasar,E-Wallet
+229,2023-10-29,CUST229,Male,58,Household Items,3,842000,2526000,Medan,E-Wallet
+230,2023-04-23,CUST230,Male,54,Toys,1,252000,252000,Jakarta,E-Wallet
+231,2023-01-04,CUST231,Female,23,Electronics,3,710000,2130000,Yogyakarta,E-Wallet
+232,2023-02-06,CUST232,Female,43,Clothing,1,438000,438000,Jakarta,E-Wallet
+233,2023-12-29,CUST233,Female,51,Electronics,2,939000,1878000,Surabaya,Credit Card
+234,2023-11-20,CUST234,Female,62,Household Items,2,770000,1540000,Medan,Credit Card
+235,2023-01-31,CUST235,Female,23,Toys,2,212000,424000,Bandung,E-Wallet
+236,2023-04-28,CUST236,Female,54,Beauty,1,48000,48000,Semarang,E-Wallet
+237,2023-02-04,CUST237,Female,50,Electronics,2,909000,1818000,Denpasar,Credit Card
+238,2023-01-17,CUST238,Female,39,Household Items,1,979000,979000,Denpasar,E-Wallet
+239,2023-06-19,CUST239,Male,38,Fast Food,3,40000,120000,Jakarta,E-Wallet
+240,2023-02-06,CUST240,Female,23,Fast Food,1,43000,43000,Semarang,E-Wallet
+241,2023-09-21,CUST241,Female,23,Toys,3,231000,693000,Yogyakarta,E-Wallet
+242,2023-05-02,CUST242,Male,21,Fast Food,1,22000,22000,Yogyakarta,E-Wallet
+243,2023-05-23,CUST243,Female,47,Clothing,3,408000,1224000,Semarang,Credit Card
+244,2023-12-09,CUST244,Male,28,Household Items,2,439000,878000,Semarang,E-Wallet
+245,2023-09-06,CUST245,Male,47,Toys,3,70000,210000,Surabaya,E-Wallet
+246,2023-04-20,CUST246,Female,48,Clothing,2,62000,124000,Bandung,E-Wallet
+247,2023-10-04,CUST247,Male,41,Toys,2,61000,122000,Bandung,E-Wallet
+248,2023-03-09,CUST248,Male,26,Toys,3,283000,849000,Surabaya,E-Wallet
+249,2023-10-20,CUST249,Male,20,Snacks,1,6000,6000,Surabaya,E-Wallet
+250,2023-10-23,CUST250,Male,48,Snacks,1,7000,7000,Medan,E-Wallet
+251,2023-08-31,CUST251,Female,57,Clothing,4,233000,932000,Semarang,E-Wallet
+252,2023-05-05,CUST252,Male,54,Fast Food,1,22000,22000,Medan,E-Wallet
+253,2023-08-31,CUST253,Female,53,Electronics,4,1796000,7184000,Bandung,Credit Card
+254,2023-07-28,CUST254,Male,41,Snacks,1,19000,19000,Surabaya,E-Wallet
+255,2023-04-08,CUST255,Male,48,Beauty,1,38000,38000,Medan,E-Wallet
+256,2023-02-18,CUST256,Male,23,Toys,2,142000,284000,Denpasar,E-Wallet
+257,2023-02-19,CUST257,Male,19,Toys,4,264000,1056000,Yogyakarta,E-Wallet
+258,2023-12-04,CUST258,Female,37,Beauty,1,42000,42000,Jakarta,E-Wallet
+259,2023-08-09,CUST259,Female,45,Snacks,4,10000,40000,Jakarta,E-Wallet
+260,2023-07-01,CUST260,Male,28,Clothing,2,101000,202000,Semarang,E-Wallet
+261,2023-08-05,CUST261,Male,21,Clothing,2,90000,180000,Denpasar,E-Wallet
+262,2023-07-30,CUST262,Female,32,Beauty,4,36000,144000,Semarang,E-Wallet
+263,2023-08-28,CUST263,Male,23,Toys,2,56000,112000,Bandung,E-Wallet
+264,2023-01-28,CUST264,Male,47,Household Items,3,404000,1212000,Yogyakarta,E-Wallet
+265,2023-12-11,CUST265,Male,55,Fast Food,3,86000,258000,Bandung,E-Wallet
+266,2023-12-01,CUST266,Female,19,Snacks,2,14000,28000,Semarang,E-Wallet
+267,2023-11-27,CUST267,Female,32,Electronics,3,663000,1989000,Bandung,Credit Card
+268,2023-02-20,CUST268,Female,28,Household Items,1,229000,229000,Jakarta,E-Wallet
+269,2023-02-01,CUST269,Male,25,Clothing,4,192000,768000,Denpasar,E-Wallet
+270,2023-07-26,CUST270,Male,43,Beauty,1,37000,37000,Yogyakarta,E-Wallet
+271,2023-06-23,CUST271,Female,62,Toys,4,90000,360000,Medan,Cash
+272,2023-02-25,CUST272,Female,61,Household Items,2,466000,932000,Jakarta,E-Wallet
+273,2023-05-08,CUST273,Female,22,Snacks,1,10000,10000,Jakarta,E-Wallet
+274,2023-04-09,CUST274,Female,23,Fast Food,2,31000,62000,Medan,E-Wallet
+275,2023-04-08,CUST275,Male,43,Clothing,2,362000,724000,Yogyakarta,E-Wallet
+276,2023-10-02,CUST276,Female,21,Electronics,4,1757000,7028000,Denpasar,Credit Card
+277,2023-08-18,CUST277,Male,36,Beauty,4,20000,80000,Denpasar,E-Wallet
+278,2023-03-13,CUST278,Female,37,Beauty,4,36000,144000,Semarang,E-Wallet
+279,2023-08-05,CUST279,Male,50,Toys,1,94000,94000,Jakarta,E-Wallet
+280,2023-04-04,CUST280,Female,37,Clothing,3,262000,786000,Surabaya,E-Wallet
+281,2023-05-23,CUST281,Female,29,Beauty,4,34000,136000,Jakarta,E-Wallet
+282,2023-08-25,CUST282,Female,64,Toys,4,61000,244000,Denpasar,Cash
+283,2023-05-08,CUST283,Female,18,Fast Food,1,49000,49000,Semarang,E-Wallet
+284,2023-02-08,CUST284,Male,43,Beauty,4,14000,56000,Surabaya,E-Wallet
+285,2023-08-15,CUST285,Female,31,Household Items,1,296000,296000,Medan,E-Wallet
+286,2023-10-09,CUST286,Male,55,Fast Food,2,24000,48000,Surabaya,E-Wallet
+287,2023-02-20,CUST287,Male,54,Toys,4,241000,964000,Jakarta,E-Wallet
+288,2023-01-26,CUST288,Male,28,Electronics,4,1596000,6384000,Denpasar,Credit Card
+289,2023-11-30,CUST289,Male,53,Snacks,2,20000,40000,Yogyakarta,E-Wallet
+290,2023-10-04,CUST290,Female,30,Toys,2,51000,102000,Surabaya,E-Wallet
+291,2023-01-08,CUST291,Male,60,Snacks,2,10000,20000,Semarang,E-Wallet
+292,2023-02-17,CUST292,Male,20,Clothing,4,38000,152000,Medan,E-Wallet
+293,2023-05-02,CUST293,Male,50,Fast Food,3,76000,228000,Semarang,E-Wallet
+294,2023-03-27,CUST294,Female,23,Electronics,3,982000,2946000,Jakarta,E-Wallet
+295,2023-07-28,CUST295,Female,27,Toys,3,191000,573000,Semarang,E-Wallet
+296,2023-09-06,CUST296,Female,22,Beauty,4,41000,164000,Surabaya,E-Wallet
+297,2023-09-04,CUST297,Female,40,Snacks,2,16000,32000,Medan,E-Wallet
+298,2023-04-20,CUST298,Male,27,Electronics,4,1417000,5668000,Surabaya,Credit Card
+299,2023-07-25,CUST299,Male,61,Toys,2,212000,424000,Semarang,Cash
+300,2023-01-31,CUST300,Female,19,Fast Food,4,70000,280000,Medan,E-Wallet
+301,2023-03-26,CUST301,Male,30,Toys,4,252000,1008000,Jakarta,E-Wallet
+302,2023-07-14,CUST302,Male,57,Beauty,2,41000,82000,Semarang,E-Wallet
+303,2023-01-02,CUST303,Male,19,Clothing,3,151000,453000,Medan,E-Wallet
+304,2023-07-19,CUST304,Female,37,Beauty,2,19000,38000,Denpasar,E-Wallet
+305,2023-05-16,CUST305,Female,18,Fast Food,1,29000,29000,Bandung,E-Wallet
+306,2023-08-21,CUST306,Male,54,Toys,1,153000,153000,Surabaya,E-Wallet
+307,2023-05-27,CUST307,Female,26,Toys,2,87000,174000,Jakarta,E-Wallet
+308,2023-08-05,CUST308,Female,34,Household Items,4,661000,2644000,Surabaya,Credit Card
+309,2023-12-23,CUST309,Female,26,Snacks,1,9000,9000,Semarang,E-Wallet
+310,2023-10-12,CUST310,Female,28,Beauty,1,34000,34000,Semarang,E-Wallet
+311,2023-12-05,CUST311,Female,32,Fast Food,4,27000,108000,Bandung,E-Wallet
+312,2023-09-07,CUST312,Male,41,Beauty,4,39000,156000,Medan,E-Wallet
+313,2023-03-21,CUST313,Female,55,Snacks,3,12000,36000,Yogyakarta,E-Wallet
+314,2023-04-08,CUST314,Male,52,Toys,4,262000,1048000,Bandung,E-Wallet
+315,2023-06-01,CUST315,Male,47,Electronics,2,1913000,3826000,Yogyakarta,E-Wallet
+316,2023-04-22,CUST316,Female,48,Household Items,2,823000,1646000,Medan,Credit Card
+317,2023-01-30,CUST317,Male,22,Toys,3,151000,453000,Yogyakarta,E-Wallet
+318,2023-10-24,CUST318,Male,61,Beauty,1,40000,40000,Jakarta,Cash
+319,2023-10-05,CUST319,Male,31,Household Items,1,255000,255000,Jakarta,E-Wallet
+320,2023-02-01,CUST320,Female,28,Fast Food,4,43000,172000,Jakarta,E-Wallet
+321,2023-06-10,CUST321,Female,26,Snacks,2,10000,20000,Bandung,E-Wallet
+322,2023-01-30,CUST322,Male,51,Electronics,1,1168000,1168000,Denpasar,E-Wallet
+323,2023-01-26,CUST323,Female,29,Clothing,3,465000,1395000,Semarang,E-Wallet
+324,2023-10-27,CUST324,Female,52,Household Items,3,410000,1230000,Yogyakarta,Credit Card
+325,2023-09-02,CUST325,Female,52,Beauty,2,35000,70000,Denpasar,E-Wallet
+326,2023-09-15,CUST326,Female,18,Toys,3,128000,384000,Jakarta,E-Wallet
+327,2023-09-29,CUST327,Male,57,Clothing,3,440000,1320000,Yogyakarta,E-Wallet
+328,2023-03-22,CUST328,Male,39,Clothing,2,482000,964000,Medan,E-Wallet
+329,2023-01-30,CUST329,Female,46,Clothing,4,228000,912000,Jakarta,E-Wallet
+330,2023-09-18,CUST330,Female,25,Clothing,4,205000,820000,Yogyakarta,E-Wallet
+331,2023-02-11,CUST331,Male,28,Beauty,3,47000,141000,Jakarta,E-Wallet
+332,2023-04-06,CUST332,Male,58,Beauty,4,46000,184000,Semarang,E-Wallet
+333,2023-02-05,CUST333,Female,54,Fast Food,4,21000,84000,Jakarta,E-Wallet
+334,2023-11-01,CUST334,Male,31,Household Items,3,412000,1236000,Surabaya,E-Wallet
+335,2023-02-04,CUST335,Female,47,Electronics,4,1493000,5972000,Denpasar,Credit Card
+336,2023-12-12,CUST336,Female,52,Household Items,3,620000,1860000,Semarang,Credit Card
+337,2023-05-01,CUST337,Male,38,Toys,1,166000,166000,Yogyakarta,E-Wallet
+338,2023-07-26,CUST338,Male,54,Beauty,2,25000,50000,Denpasar,E-Wallet
+339,2023-03-03,CUST339,Female,22,Household Items,2,392000,784000,Semarang,E-Wallet
+340,2023-10-19,CUST340,Female,36,Clothing,4,167000,668000,Denpasar,E-Wallet
+341,2023-05-07,CUST341,Male,31,Fast Food,4,58000,232000,Semarang,E-Wallet
+342,2023-10-24,CUST342,Female,43,Clothing,4,487000,1948000,Medan,Credit Card
+343,2023-11-01,CUST343,Male,21,Clothing,2,79000,158000,Semarang,E-Wallet
+344,2023-01-21,CUST344,Female,42,Toys,1,184000,184000,Bandung,E-Wallet
+345,2023-11-14,CUST345,Male,62,Beauty,1,27000,27000,Jakarta,Cash
+346,2023-02-11,CUST346,Male,59,Electronics,2,1277000,2554000,Bandung,E-Wallet
+347,2023-08-03,CUST347,Male,42,Household Items,1,821000,821000,Bandung,E-Wallet
+348,2023-12-03,CUST348,Female,35,Beauty,2,20000,40000,Denpasar,E-Wallet
+349,2023-10-26,CUST349,Female,57,Toys,1,131000,131000,Medan,E-Wallet
+350,2023-10-17,CUST350,Male,25,Snacks,3,13000,39000,Yogyakarta,E-Wallet
+351,2023-09-25,CUST351,Female,56,Beauty,3,18000,54000,Denpasar,E-Wallet
+352,2023-06-11,CUST352,Male,57,Fast Food,2,85000,170000,Bandung,E-Wallet
+353,2023-05-14,CUST353,Male,31,Fast Food,1,55000,55000,Semarang,E-Wallet
+354,2023-04-15,CUST354,Female,49,Electronics,4,1561000,6244000,Bandung,Credit Card
+355,2023-12-09,CUST355,Female,55,Fast Food,1,87000,87000,Jakarta,E-Wallet
+356,2023-06-10,CUST356,Male,50,Toys,3,139000,417000,Semarang,E-Wallet
+357,2023-05-03,CUST357,Female,40,Household Items,3,644000,1932000,Medan,Credit Card
+358,2023-05-16,CUST358,Female,32,Toys,1,177000,177000,Denpasar,E-Wallet
+359,2023-07-22,CUST359,Male,50,Toys,1,135000,135000,Denpasar,E-Wallet
+360,2023-03-09,CUST360,Male,42,Electronics,4,878000,3512000,Medan,E-Wallet
+361,2023-12-10,CUST361,Female,34,Clothing,4,50000,200000,Denpasar,E-Wallet
+362,2023-11-27,CUST362,Male,50,Fast Food,1,55000,55000,Surabaya,E-Wallet
+363,2023-06-03,CUST363,Male,64,Electronics,1,1157000,1157000,Surabaya,Credit Card
+364,2023-08-23,CUST364,Female,19,Fast Food,1,86000,86000,Medan,E-Wallet
+365,2023-06-11,CUST365,Male,31,Electronics,1,1678000,1678000,Surabaya,E-Wallet
+366,2023-02-07,CUST366,Male,57,Household Items,2,378000,756000,Denpasar,E-Wallet
+367,2023-01-05,CUST367,Female,57,Electronics,1,579000,579000,Medan,E-Wallet
+368,2023-08-23,CUST368,Female,56,Snacks,4,14000,56000,Surabaya,E-Wallet
+369,2023-11-15,CUST369,Male,23,Toys,3,294000,882000,Denpasar,E-Wallet
+370,2023-10-16,CUST370,Male,23,Snacks,2,16000,32000,Surabaya,E-Wallet
+371,2023-02-21,CUST371,Female,20,Household Items,1,700000,700000,Denpasar,E-Wallet
+372,2023-02-07,CUST372,Female,24,Electronics,3,1321000,3963000,Jakarta,E-Wallet
+373,2023-10-03,CUST373,Female,25,Electronics,2,825000,1650000,Jakarta,E-Wallet
+374,2023-04-20,CUST374,Female,59,Clothing,3,379000,1137000,Denpasar,Credit Card
+375,2023-09-17,CUST375,Male,32,Snacks,1,8000,8000,Semarang,E-Wallet
+376,2023-05-16,CUST376,Female,64,Fast Food,1,41000,41000,Semarang,Cash
+377,2023-03-09,CUST377,Female,46,Toys,4,283000,1132000,Jakarta,Credit Card
+378,2023-06-28,CUST378,Male,50,Beauty,1,28000,28000,Semarang,E-Wallet
+379,2023-02-05,CUST379,Female,47,Snacks,1,5000,5000,Jakarta,E-Wallet
+380,2023-05-06,CUST380,Male,56,Beauty,2,30000,60000,Bandung,E-Wallet
+381,2023-07-09,CUST381,Female,44,Fast Food,4,72000,288000,Denpasar,E-Wallet
+382,2023-05-26,CUST382,Female,53,Household Items,2,160000,320000,Bandung,E-Wallet
+383,2023-03-22,CUST383,Female,46,Fast Food,3,42000,126000,Yogyakarta,E-Wallet
+384,2023-08-13,CUST384,Male,55,Snacks,1,9000,9000,Jakarta,E-Wallet
+385,2023-10-06,CUST385,Male,50,Beauty,3,35000,105000,Jakarta,E-Wallet
+386,2023-12-27,CUST386,Female,54,Toys,2,91000,182000,Denpasar,E-Wallet
+387,2023-06-04,CUST387,Male,44,Electronics,1,1649000,1649000,Jakarta,E-Wallet
+388,2023-11-10,CUST388,Male,50,Beauty,1,22000,22000,Surabaya,E-Wallet
+389,2023-12-01,CUST389,Male,21,Fast Food,2,74000,148000,Yogyakarta,E-Wallet
+390,2023-09-28,CUST390,Male,39,Clothing,2,117000,234000,Medan,E-Wallet
+391,2023-01-05,CUST391,Male,19,Snacks,2,9000,18000,Bandung,E-Wallet
+392,2023-12-08,CUST392,Male,27,Household Items,2,935000,1870000,Bandung,E-Wallet
+393,2023-10-11,CUST393,Female,22,Fast Food,2,38000,76000,Denpasar,E-Wallet
+394,2023-06-03,CUST394,Female,27,Snacks,1,9000,9000,Denpasar,E-Wallet
+395,2023-12-06,CUST395,Male,50,Fast Food,2,34000,68000,Semarang,E-Wallet
+396,2023-02-23,CUST396,Female,55,Electronics,1,1708000,1708000,Denpasar,Credit Card
+397,2023-03-10,CUST397,Female,30,Toys,1,100000,100000,Semarang,E-Wallet
+398,2023-05-16,CUST398,Female,48,Fast Food,2,84000,168000,Bandung,E-Wallet
+399,2023-03-01,CUST399,Female,64,Household Items,2,972000,1944000,Medan,Credit Card
+400,2023-02-24,CUST400,Male,53,Beauty,4,33000,132000,Bandung,E-Wallet
+401,2023-10-11,CUST401,Female,62,Household Items,1,422000,422000,Denpasar,Cash
+402,2023-03-21,CUST402,Female,41,Electronics,2,992000,1984000,Medan,Credit Card
+403,2023-05-20,CUST403,Male,32,Snacks,2,19000,38000,Jakarta,E-Wallet
+404,2023-05-25,CUST404,Male,46,Snacks,2,13000,26000,Denpasar,E-Wallet
+405,2023-11-06,CUST405,Female,25,Clothing,4,292000,1168000,Yogyakarta,E-Wallet
+406,2023-04-18,CUST406,Female,22,Household Items,4,790000,3160000,Medan,E-Wallet
+407,2023-06-25,CUST407,Female,46,Household Items,3,983000,2949000,Denpasar,Credit Card
+408,2023-04-15,CUST408,Female,64,Toys,1,152000,152000,Medan,Cash
+409,2023-12-18,CUST409,Female,21,Toys,3,60000,180000,Yogyakarta,E-Wallet
+410,2023-11-21,CUST410,Female,29,Household Items,2,175000,350000,Medan,E-Wallet
+411,2023-05-16,CUST411,Male,62,Electronics,4,560000,2240000,Denpasar,Credit Card
+412,2023-09-16,CUST412,Female,19,Household Items,4,520000,2080000,Denpasar,E-Wallet
+413,2023-09-08,CUST413,Female,44,Household Items,3,201000,603000,Jakarta,E-Wallet
+414,2023-05-09,CUST414,Male,48,Toys,4,151000,604000,Denpasar,E-Wallet
+415,2023-01-27,CUST415,Male,53,Clothing,2,378000,756000,Medan,E-Wallet
+416,2023-02-17,CUST416,Male,53,Fast Food,4,86000,344000,Denpasar,E-Wallet
+417,2023-11-21,CUST417,Male,43,Electronics,3,693000,2079000,Bandung,E-Wallet
+418,2023-08-05,CUST418,Female,60,Clothing,2,114000,228000,Surabaya,E-Wallet
+419,2023-05-22,CUST419,Female,44,Snacks,3,13000,39000,Medan,E-Wallet
+420,2023-01-23,CUST420,Female,22,Snacks,4,17000,68000,Semarang,E-Wallet
+421,2023-01-02,CUST421,Female,37,Household Items,3,769000,2307000,Bandung,Credit Card
+422,2023-06-20,CUST422,Female,28,Clothing,3,435000,1305000,Jakarta,E-Wallet
+423,2023-03-08,CUST423,Female,27,Clothing,1,456000,456000,Yogyakarta,E-Wallet
+424,2023-11-23,CUST424,Male,57,Beauty,4,20000,80000,Jakarta,E-Wallet
+425,2023-05-15,CUST425,Female,55,Beauty,4,10000,40000,Semarang,E-Wallet
+426,2023-03-24,CUST426,Male,23,Electronics,3,576000,1728000,Jakarta,E-Wallet
+427,2023-08-15,CUST427,Male,25,Fast Food,1,31000,31000,Denpasar,E-Wallet
+428,2023-10-10,CUST428,Female,40,Beauty,4,32000,128000,Yogyakarta,E-Wallet
+429,2023-12-28,CUST429,Male,64,Electronics,2,1275000,2550000,Bandung,Credit Card
+430,2023-08-07,CUST430,Female,43,Clothing,3,74000,222000,Surabaya,E-Wallet
+431,2023-10-15,CUST431,Male,63,Household Items,4,784000,3136000,Jakarta,Credit Card
+432,2023-01-05,CUST432,Female,60,Beauty,2,13000,26000,Medan,E-Wallet
+433,2023-02-27,CUST433,Male,29,Toys,4,275000,1100000,Yogyakarta,E-Wallet
+434,2023-02-08,CUST434,Female,43,Household Items,2,223000,446000,Medan,E-Wallet
+435,2023-12-20,CUST435,Female,30,Electronics,3,1499000,4497000,Denpasar,E-Wallet
+436,2023-03-18,CUST436,Female,57,Snacks,4,19000,76000,Semarang,E-Wallet
+437,2023-10-07,CUST437,Female,35,Electronics,4,717000,2868000,Medan,Credit Card
+438,2023-01-19,CUST438,Female,42,Clothing,1,327000,327000,Denpasar,E-Wallet
+439,2023-07-09,CUST439,Male,50,Toys,3,80000,240000,Surabaya,E-Wallet
+440,2023-10-26,CUST440,Male,64,Household Items,2,741000,1482000,Bandung,Credit Card
+441,2023-10-10,CUST441,Male,57,Electronics,4,70000,280000,Semarang,E-Wallet
+442,2023-03-17,CUST442,Female,60,Fast Food,4,66000,264000,Yogyakarta,E-Wallet
+443,2023-08-09,CUST443,Male,29,Snacks,2,10000,20000,Jakarta,E-Wallet
+444,2023-03-07,CUST444,Female,61,Beauty,3,37000,111000,Medan,Cash
+445,2023-01-22,CUST445,Female,53,Beauty,1,50000,50000,Semarang,E-Wallet
+446,2023-06-07,CUST446,Male,21,Clothing,1,214000,214000,Denpasar,E-Wallet
+447,2023-07-06,CUST447,Male,22,Fast Food,4,33000,132000,Jakarta,E-Wallet
+448,2023-01-21,CUST448,Female,54,Household Items,2,162000,324000,Yogyakarta,E-Wallet
+449,2023-07-03,CUST449,Male,25,Fast Food,4,76000,304000,Jakarta,E-Wallet
+450,2023-04-18,CUST450,Female,59,Toys,2,82000,164000,Denpasar,E-Wallet
+451,2023-12-16,CUST451,Female,45,Beauty,1,27000,27000,Medan,E-Wallet
+452,2023-05-08,CUST452,Female,48,Snacks,3,15000,45000,Bandung,E-Wallet
+453,2023-12-08,CUST453,Female,26,Toys,2,178000,356000,Semarang,E-Wallet
+454,2023-02-22,CUST454,Female,46,Clothing,1,231000,231000,Jakarta,E-Wallet
+455,2023-07-01,CUST455,Male,31,Toys,4,98000,392000,Denpasar,E-Wallet
+456,2023-10-14,CUST456,Male,57,Beauty,2,45000,90000,Bandung,E-Wallet
+457,2023-07-28,CUST457,Female,58,Electronics,3,127000,381000,Surabaya,E-Wallet
+458,2023-11-14,CUST458,Female,39,Household Items,4,136000,544000,Surabaya,E-Wallet
+459,2023-03-21,CUST459,Male,28,Household Items,4,571000,2284000,Medan,E-Wallet
+460,2023-05-02,CUST460,Male,40,Toys,1,53000,53000,Jakarta,E-Wallet
+461,2023-03-25,CUST461,Female,18,Snacks,2,17000,34000,Surabaya,E-Wallet
+462,2023-04-01,CUST462,Male,63,Beauty,4,46000,184000,Denpasar,Cash
+463,2023-07-31,CUST463,Female,54,Fast Food,3,37000,111000,Surabaya,E-Wallet
+464,2023-01-13,CUST464,Male,38,Clothing,2,262000,524000,Yogyakarta,E-Wallet
+465,2023-04-02,CUST465,Female,43,Snacks,3,16000,48000,Jakarta,E-Wallet
+466,2023-06-20,CUST466,Male,63,Electronics,4,1787000,7148000,Denpasar,Credit Card
+467,2023-07-30,CUST467,Female,53,Beauty,3,18000,54000,Medan,E-Wallet
+468,2023-12-09,CUST468,Male,40,Snacks,1,17000,17000,Medan,E-Wallet
+469,2023-05-08,CUST469,Male,18,Fast Food,3,48000,144000,Medan,E-Wallet
+470,2023-05-17,CUST470,Female,57,Electronics,2,1113000,2226000,Denpasar,Credit Card
+471,2023-03-23,CUST471,Male,32,Clothing,3,258000,774000,Medan,E-Wallet
+472,2023-12-26,CUST472,Female,38,Clothing,3,469000,1407000,Medan,Credit Card
+473,2023-02-25,CUST473,Male,64,Electronics,1,1511000,1511000,Yogyakarta,Credit Card
+474,2023-07-15,CUST474,Female,26,Fast Food,3,54000,162000,Medan,E-Wallet
+475,2023-01-20,CUST475,Male,26,Beauty,3,12000,36000,Jakarta,E-Wallet
+476,2023-08-29,CUST476,Female,27,Toys,4,274000,1096000,Bandung,E-Wallet
+477,2023-04-24,CUST477,Male,43,Fast Food,4,55000,220000,Semarang,E-Wallet
+478,2023-04-13,CUST478,Female,58,Clothing,2,142000,284000,Denpasar,E-Wallet
+479,2023-08-24,CUST479,Male,52,Snacks,4,17000,68000,Surabaya,E-Wallet
+480,2023-06-29,CUST480,Female,42,Electronics,4,306000,1224000,Medan,Credit Card
+481,2023-06-06,CUST481,Female,43,Electronics,4,1549000,6196000,Surabaya,Credit Card
+482,2023-04-27,CUST482,Female,28,Clothing,4,176000,704000,Medan,E-Wallet
+483,2023-04-25,CUST483,Male,55,Snacks,1,10000,10000,Denpasar,E-Wallet
+484,2023-01-13,CUST484,Female,19,Household Items,4,315000,1260000,Jakarta,E-Wallet
+485,2023-12-04,CUST485,Male,24,Snacks,1,13000,13000,Bandung,E-Wallet
+486,2023-04-09,CUST486,Female,35,Toys,1,195000,195000,Denpasar,E-Wallet
+487,2023-07-24,CUST487,Male,44,Toys,4,213000,852000,Medan,E-Wallet
+488,2023-06-18,CUST488,Female,51,Clothing,3,119000,357000,Jakarta,E-Wallet
+489,2023-05-23,CUST489,Male,44,Toys,1,185000,185000,Denpasar,E-Wallet
+490,2023-02-05,CUST490,Male,34,Beauty,3,46000,138000,Yogyakarta,E-Wallet
+491,2023-05-23,CUST491,Female,60,Clothing,3,189000,567000,Surabaya,E-Wallet
+492,2023-06-29,CUST492,Male,61,Fast Food,4,94000,376000,Medan,Cash
+493,2023-11-25,CUST493,Male,41,Toys,2,155000,310000,Medan,E-Wallet
+494,2023-09-18,CUST494,Female,42,Household Items,4,610000,2440000,Semarang,Credit Card
+495,2023-07-24,CUST495,Male,24,Household Items,2,340000,680000,Yogyakarta,E-Wallet
+496,2023-12-14,CUST496,Male,23,Household Items,2,926000,1852000,Jakarta,E-Wallet
+497,2023-10-02,CUST497,Male,41,Toys,4,183000,732000,Semarang,E-Wallet
+498,2023-06-19,CUST498,Female,50,Electronics,4,1288000,5152000,Bandung,Credit Card
+499,2023-01-15,CUST499,Male,46,Snacks,2,19000,38000,Semarang,E-Wallet
+500,2023-03-01,CUST500,Female,60,Beauty,4,42000,168000,Surabaya,E-Wallet
+501,2023-05-14,CUST501,Male,39,Fast Food,2,41000,82000,Yogyakarta,E-Wallet
+502,2023-04-02,CUST502,Male,43,Electronics,3,421000,1263000,Jakarta,E-Wallet
+503,2023-10-25,CUST503,Male,45,Fast Food,4,46000,184000,Yogyakarta,E-Wallet
+504,2023-05-16,CUST504,Female,38,Clothing,3,259000,777000,Medan,E-Wallet
+505,2023-01-20,CUST505,Male,24,Clothing,1,48000,48000,Surabaya,E-Wallet
+506,2023-02-25,CUST506,Male,34,Snacks,3,18000,54000,Bandung,E-Wallet
+507,2023-11-02,CUST507,Female,37,Household Items,3,952000,2856000,Denpasar,Credit Card
+508,2023-08-11,CUST508,Male,58,Clothing,2,356000,712000,Yogyakarta,E-Wallet
+509,2023-06-26,CUST509,Female,37,Clothing,3,49000,147000,Jakarta,E-Wallet
+510,2023-06-10,CUST510,Female,39,Household Items,4,560000,2240000,Denpasar,Credit Card
+511,2023-08-12,CUST511,Male,45,Snacks,2,20000,40000,Medan,E-Wallet
+512,2023-11-07,CUST512,Female,57,Beauty,1,30000,30000,Medan,E-Wallet
+513,2023-09-19,CUST513,Male,24,Clothing,4,31000,124000,Surabaya,E-Wallet
+514,2023-03-01,CUST514,Female,18,Beauty,1,46000,46000,Bandung,E-Wallet
+515,2023-07-17,CUST515,Female,49,Electronics,3,1911000,5733000,Surabaya,Credit Card
+516,2023-10-23,CUST516,Male,30,Snacks,4,14000,56000,Yogyakarta,E-Wallet
+517,2023-04-08,CUST517,Female,47,Clothing,4,465000,1860000,Yogyakarta,Credit Card
+518,2023-05-11,CUST518,Female,40,Clothing,1,105000,105000,Bandung,E-Wallet
+519,2023-01-23,CUST519,Female,36,Electronics,4,624000,2496000,Semarang,Credit Card
+520,2023-12-29,CUST520,Female,49,Toys,4,70000,280000,Medan,E-Wallet
+521,2023-08-12,CUST521,Female,47,Beauty,4,18000,72000,Jakarta,E-Wallet
+522,2023-01-01,CUST522,Male,46,Toys,3,202000,606000,Denpasar,E-Wallet
+523,2023-09-24,CUST523,Female,62,Fast Food,1,21000,21000,Denpasar,Cash
+524,2023-10-03,CUST524,Male,46,Electronics,4,1592000,6368000,Bandung,E-Wallet
+525,2023-12-18,CUST525,Female,47,Household Items,2,465000,930000,Medan,E-Wallet
+526,2023-12-10,CUST526,Male,33,Fast Food,2,65000,130000,Surabaya,E-Wallet
+527,2023-04-11,CUST527,Male,57,Snacks,2,9000,18000,Denpasar,E-Wallet
+528,2023-07-06,CUST528,Female,36,Electronics,2,297000,594000,Bandung,E-Wallet
+529,2023-08-09,CUST529,Female,35,Toys,3,73000,219000,Jakarta,E-Wallet
+530,2023-02-05,CUST530,Female,18,Electronics,4,1309000,5236000,Semarang,Credit Card
+531,2023-12-07,CUST531,Male,31,Clothing,1,439000,439000,Yogyakarta,E-Wallet
+532,2023-06-19,CUST532,Female,64,Fast Food,4,54000,216000,Surabaya,Cash
+533,2023-11-16,CUST533,Male,19,Beauty,3,46000,138000,Jakarta,E-Wallet
+534,2023-06-10,CUST534,Male,45,Beauty,2,39000,78000,Denpasar,E-Wallet
+535,2023-12-06,CUST535,Male,47,Toys,3,76000,228000,Jakarta,E-Wallet
+536,2023-03-05,CUST536,Female,55,Beauty,4,12000,48000,Jakarta,E-Wallet
+537,2023-06-03,CUST537,Female,21,Clothing,1,452000,452000,Semarang,E-Wallet
+538,2023-09-17,CUST538,Male,18,Toys,3,84000,252000,Jakarta,E-Wallet
+539,2023-06-08,CUST539,Male,25,Electronics,1,1396000,1396000,Yogyakarta,E-Wallet
+540,2023-12-08,CUST540,Female,46,Fast Food,3,95000,285000,Denpasar,E-Wallet
+541,2023-07-29,CUST541,Male,56,Beauty,1,47000,47000,Bandung,E-Wallet
+542,2023-06-17,CUST542,Female,20,Household Items,1,482000,482000,Medan,E-Wallet
+543,2023-07-26,CUST543,Male,49,Electronics,2,1063000,2126000,Yogyakarta,E-Wallet
+544,2023-12-23,CUST544,Female,27,Fast Food,1,59000,59000,Jakarta,E-Wallet
+545,2023-06-01,CUST545,Male,27,Fast Food,2,30000,60000,Bandung,E-Wallet
+546,2023-10-11,CUST546,Female,36,Household Items,4,440000,1760000,Medan,Credit Card
+547,2023-03-07,CUST547,Male,63,Electronics,4,1851000,7404000,Medan,Credit Card
+548,2023-04-09,CUST548,Female,51,Electronics,2,1964000,3928000,Medan,Credit Card
+549,2023-08-04,CUST549,Female,50,Electronics,2,1752000,3504000,Yogyakarta,Credit Card
+550,2023-12-07,CUST550,Male,40,Toys,3,259000,777000,Denpasar,E-Wallet
+551,2023-07-14,CUST551,Male,45,Household Items,3,857000,2571000,Denpasar,E-Wallet
+552,2023-12-13,CUST552,Female,49,Household Items,3,925000,2775000,Denpasar,Credit Card
+553,2023-03-31,CUST553,Male,24,Toys,4,214000,856000,Jakarta,E-Wallet
+554,2023-11-12,CUST554,Female,46,Toys,3,264000,792000,Semarang,E-Wallet
+555,2023-10-19,CUST555,Male,25,Electronics,1,386000,386000,Denpasar,E-Wallet
+556,2023-06-04,CUST556,Female,18,Beauty,1,24000,24000,Denpasar,E-Wallet
+557,2023-07-27,CUST557,Female,20,Snacks,3,9000,27000,Denpasar,E-Wallet
+558,2023-10-08,CUST558,Female,41,Electronics,1,327000,327000,Bandung,E-Wallet
+559,2023-01-01,CUST559,Female,40,Toys,4,197000,788000,Denpasar,E-Wallet
+560,2023-06-05,CUST560,Female,25,Toys,1,165000,165000,Surabaya,E-Wallet
+561,2023-05-27,CUST561,Female,64,Toys,4,168000,672000,Medan,E-Wallet
+562,2023-04-18,CUST562,Male,54,Clothing,2,55000,110000,Yogyakarta,E-Wallet
+563,2023-08-09,CUST563,Male,20,Toys,2,214000,428000,Semarang,E-Wallet
+564,2023-10-24,CUST564,Male,50,Electronics,2,1396000,2792000,Surabaya,E-Wallet
+565,2023-11-07,CUST565,Female,45,Snacks,2,5000,10000,Medan,E-Wallet
+566,2023-12-02,CUST566,Female,64,Fast Food,1,45000,45000,Surabaya,Cash
+567,2023-06-14,CUST567,Female,25,Beauty,3,17000,51000,Surabaya,E-Wallet
+568,2023-08-27,CUST568,Female,51,Beauty,1,16000,16000,Denpasar,E-Wallet
+569,2023-08-15,CUST569,Male,52,Snacks,4,13000,52000,Bandung,E-Wallet
+570,2023-08-15,CUST570,Male,49,Beauty,1,23000,23000,Surabaya,E-Wallet
+571,2023-12-12,CUST571,Female,41,Fast Food,1,35000,35000,Surabaya,E-Wallet
+572,2023-04-20,CUST572,Male,31,Snacks,4,6000,24000,Jakarta,E-Wallet
+573,2023-09-19,CUST573,Male,49,Snacks,2,7000,14000,Bandung,E-Wallet
+574,2023-08-31,CUST574,Female,63,Household Items,2,505000,1010000,Bandung,Credit Card
+575,2023-03-28,CUST575,Male,60,Clothing,2,210000,420000,Medan,E-Wallet
+576,2023-12-04,CUST576,Female,33,Clothing,3,50000,150000,Yogyakarta,E-Wallet
+577,2023-02-13,CUST577,Male,21,Toys,4,227000,908000,Jakarta,E-Wallet
+578,2023-05-26,CUST578,Female,54,Electronics,4,1642000,6568000,Jakarta,Credit Card
+579,2023-09-21,CUST579,Female,38,Electronics,1,1902000,1902000,Surabaya,Credit Card
+580,2023-12-06,CUST580,Female,31,Clothing,3,465000,1395000,Medan,Credit Card
+581,2023-11-21,CUST581,Female,48,Electronics,2,1062000,2124000,Yogyakarta,Credit Card
+582,2023-11-14,CUST582,Male,35,Beauty,3,50000,150000,Yogyakarta,E-Wallet
+583,2023-06-21,CUST583,Female,24,Electronics,4,647000,2588000,Bandung,E-Wallet
+584,2023-02-17,CUST584,Female,27,Toys,4,281000,1124000,Denpasar,E-Wallet
+585,2023-05-01,CUST585,Female,24,Clothing,1,118000,118000,Denpasar,E-Wallet
+586,2023-12-11,CUST586,Male,50,Fast Food,1,36000,36000,Denpasar,E-Wallet
+587,2023-06-08,CUST587,Female,40,Toys,4,200000,800000,Semarang,E-Wallet
+588,2023-04-26,CUST588,Male,38,Toys,2,174000,348000,Bandung,E-Wallet
+589,2023-04-12,CUST589,Female,36,Toys,2,202000,404000,Bandung,E-Wallet
+590,2023-03-17,CUST590,Male,36,Beauty,3,24000,72000,Yogyakarta,E-Wallet
+591,2023-01-13,CUST591,Male,53,Toys,4,135000,540000,Surabaya,E-Wallet
+592,2023-01-24,CUST592,Female,46,Electronics,4,683000,2732000,Bandung,Credit Card
+593,2023-05-06,CUST593,Male,35,Household Items,2,762000,1524000,Jakarta,E-Wallet
+594,2023-09-01,CUST594,Female,19,Fast Food,2,48000,96000,Surabaya,E-Wallet
+595,2023-11-09,CUST595,Female,18,Clothing,4,34000,136000,Bandung,E-Wallet
+596,2023-02-07,CUST596,Female,64,Electronics,1,1426000,1426000,Semarang,Credit Card
+597,2023-08-22,CUST597,Male,22,Clothing,4,381000,1524000,Medan,E-Wallet
+598,2023-08-01,CUST598,Male,37,Clothing,4,348000,1392000,Jakarta,E-Wallet
+599,2023-11-19,CUST599,Female,28,Beauty,2,22000,44000,Bandung,E-Wallet
+600,2023-10-22,CUST600,Female,59,Clothing,2,96000,192000,Medan,E-Wallet
+601,2023-04-10,CUST601,Male,19,Toys,1,138000,138000,Jakarta,E-Wallet
+602,2023-12-23,CUST602,Female,20,Household Items,1,470000,470000,Denpasar,E-Wallet
+603,2023-07-16,CUST603,Female,40,Household Items,3,162000,486000,Medan,E-Wallet
+604,2023-09-11,CUST604,Female,29,Fast Food,4,67000,268000,Surabaya,E-Wallet
+605,2023-07-24,CUST605,Male,37,Household Items,2,656000,1312000,Yogyakarta,E-Wallet
+606,2023-05-05,CUST606,Male,22,Clothing,1,415000,415000,Bandung,E-Wallet
+607,2023-03-17,CUST607,Male,54,Beauty,3,42000,126000,Semarang,E-Wallet
+608,2023-12-02,CUST608,Female,55,Snacks,3,13000,39000,Medan,E-Wallet
+609,2023-12-19,CUST609,Female,47,Toys,2,80000,160000,Denpasar,E-Wallet
+610,2023-01-03,CUST610,Female,26,Snacks,2,17000,34000,Semarang,E-Wallet
+611,2023-02-24,CUST611,Male,51,Toys,3,190000,570000,Medan,E-Wallet
+612,2023-08-06,CUST612,Female,61,Clothing,1,357000,357000,Surabaya,Cash
+613,2023-04-23,CUST613,Female,52,Household Items,3,123000,369000,Yogyakarta,E-Wallet
+614,2023-04-01,CUST614,Female,39,Fast Food,4,58000,232000,Denpasar,E-Wallet
+615,2023-12-23,CUST615,Female,61,Snacks,4,15000,60000,Semarang,Cash
+616,2023-09-23,CUST616,Male,41,Fast Food,2,90000,180000,Medan,E-Wallet
+617,2023-08-26,CUST617,Male,34,Household Items,1,676000,676000,Yogyakarta,E-Wallet
+618,2023-01-26,CUST618,Female,27,Clothing,1,467000,467000,Bandung,E-Wallet
+619,2023-10-13,CUST619,Male,47,Clothing,4,31000,124000,Surabaya,E-Wallet
+620,2023-05-08,CUST620,Male,63,Snacks,3,18000,54000,Denpasar,Cash
+621,2023-03-04,CUST621,Female,40,Clothing,2,342000,684000,Denpasar,E-Wallet
+622,2023-08-22,CUST622,Female,49,Fast Food,3,41000,123000,Denpasar,E-Wallet
+623,2023-03-10,CUST623,Male,34,Snacks,3,19000,57000,Denpasar,E-Wallet
+624,2023-08-26,CUST624,Female,34,Household Items,3,845000,2535000,Semarang,Credit Card
+625,2023-12-08,CUST625,Male,31,Fast Food,1,100000,100000,Surabaya,E-Wallet
+626,2023-09-29,CUST626,Female,26,Clothing,4,87000,348000,Denpasar,E-Wallet
+627,2023-10-14,CUST627,Male,57,Toys,1,54000,54000,Denpasar,E-Wallet
+628,2023-11-01,CUST628,Female,19,Fast Food,4,80000,320000,Yogyakarta,E-Wallet
+629,2023-06-12,CUST629,Male,62,Beauty,2,23000,46000,Denpasar,Cash
+630,2023-08-15,CUST630,Male,42,Clothing,2,244000,488000,Jakarta,E-Wallet
+631,2023-11-10,CUST631,Male,56,Fast Food,3,99000,297000,Jakarta,E-Wallet
+632,2023-09-16,CUST632,Female,26,Fast Food,4,80000,320000,Bandung,E-Wallet
+633,2023-08-07,CUST633,Male,39,Household Items,4,815000,3260000,Denpasar,E-Wallet
+634,2023-10-08,CUST634,Male,60,Fast Food,4,40000,160000,Bandung,E-Wallet
+635,2023-08-17,CUST635,Female,63,Clothing,3,466000,1398000,Semarang,Credit Card
+636,2023-03-23,CUST636,Female,21,Snacks,3,20000,60000,Surabaya,E-Wallet
+637,2023-09-01,CUST637,Male,43,Household Items,2,749000,1498000,Jakarta,E-Wallet
+638,2023-08-19,CUST638,Male,46,Fast Food,1,92000,92000,Denpasar,E-Wallet
+639,2023-05-13,CUST639,Female,62,Snacks,4,9000,36000,Denpasar,Cash
+640,2023-05-07,CUST640,Female,51,Toys,4,96000,384000,Medan,E-Wallet
+641,2023-11-23,CUST641,Female,40,Household Items,1,591000,591000,Semarang,E-Wallet
+642,2023-05-22,CUST642,Female,54,Fast Food,4,80000,320000,Denpasar,E-Wallet
+643,2023-09-24,CUST643,Female,28,Toys,3,203000,609000,Surabaya,E-Wallet
+644,2023-09-06,CUST644,Male,23,Fast Food,3,66000,198000,Denpasar,E-Wallet
+645,2023-11-17,CUST645,Female,35,Household Items,4,916000,3664000,Denpasar,Credit Card
+646,2023-05-03,CUST646,Male,38,Clothing,3,28000,84000,Jakarta,E-Wallet
+647,2023-05-21,CUST647,Male,59,Electronics,3,1975000,5925000,Jakarta,E-Wallet
+648,2023-08-14,CUST648,Male,53,Clothing,4,265000,1060000,Denpasar,E-Wallet
+649,2023-02-09,CUST649,Female,58,Beauty,2,11000,22000,Bandung,E-Wallet
+650,2024-01-01,CUST650,Male,55,Toys,1,191000,191000,Medan,E-Wallet
+651,2023-05-27,CUST651,Male,51,Toys,3,106000,318000,Jakarta,E-Wallet
+652,2023-05-01,CUST652,Female,34,Household Items,2,824000,1648000,Surabaya,Credit Card
+653,2023-05-20,CUST653,Male,54,Electronics,3,1745000,5235000,Jakarta,E-Wallet
+654,2023-06-21,CUST654,Male,42,Electronics,3,1729000,5187000,Jakarta,E-Wallet
+655,2023-06-13,CUST655,Female,55,Electronics,1,1311000,1311000,Semarang,Credit Card
+656,2023-10-04,CUST656,Male,29,Snacks,3,11000,33000,Yogyakarta,E-Wallet
+657,2023-02-11,CUST657,Male,40,Snacks,1,13000,13000,Semarang,E-Wallet
+658,2023-03-12,CUST658,Male,59,Electronics,1,551000,551000,Surabaya,E-Wallet
+659,2023-03-19,CUST659,Female,39,Snacks,1,16000,16000,Yogyakarta,E-Wallet
+660,2023-04-29,CUST660,Female,38,Clothing,2,494000,988000,Semarang,E-Wallet
+661,2023-07-16,CUST661,Female,44,Beauty,4,49000,196000,Surabaya,E-Wallet
+662,2023-12-22,CUST662,Male,48,Toys,2,179000,358000,Surabaya,E-Wallet
+663,2023-03-20,CUST663,Male,23,Beauty,4,34000,136000,Bandung,E-Wallet
+664,2023-12-28,CUST664,Female,44,Beauty,4,35000,140000,Surabaya,E-Wallet
+665,2023-04-20,CUST665,Male,57,Fast Food,1,58000,58000,Yogyakarta,E-Wallet
+666,2023-02-02,CUST666,Male,51,Electronics,3,1309000,3927000,Semarang,E-Wallet
+667,2023-08-01,CUST667,Female,29,Toys,1,160000,160000,Bandung,E-Wallet
+668,2023-07-28,CUST668,Female,62,Toys,3,206000,618000,Jakarta,E-Wallet
+669,2023-06-19,CUST669,Male,24,Electronics,4,1864000,7456000,Bandung,Credit Card
+670,2023-10-05,CUST670,Male,27,Clothing,1,31000,31000,Bandung,E-Wallet
+671,2023-08-27,CUST671,Male,62,Fast Food,3,54000,162000,Jakarta,Cash
+672,2023-08-01,CUST672,Female,34,Fast Food,2,21000,42000,Medan,E-Wallet
+673,2023-02-01,CUST673,Female,43,Toys,3,209000,627000,Jakarta,E-Wallet
+674,2023-04-16,CUST674,Female,38,Electronics,1,432000,432000,Semarang,E-Wallet
+675,2023-08-04,CUST675,Female,45,Electronics,2,1119000,2238000,Jakarta,Credit Card
+676,2023-07-19,CUST676,Male,63,Fast Food,3,40000,120000,Yogyakarta,Cash
+677,2023-10-27,CUST677,Female,19,Electronics,3,1170000,3510000,Yogyakarta,E-Wallet
+678,2023-12-23,CUST678,Female,60,Snacks,3,15000,45000,Bandung,E-Wallet
+679,2023-01-11,CUST679,Female,18,Fast Food,3,96000,288000,Jakarta,E-Wallet
+680,2023-10-22,CUST680,Female,53,Fast Food,3,23000,69000,Bandung,E-Wallet
+681,2023-07-14,CUST681,Female,43,Fast Food,2,26000,52000,Yogyakarta,E-Wallet
+682,2023-09-02,CUST682,Male,46,Electronics,4,426000,1704000,Bandung,E-Wallet
+683,2023-01-04,CUST683,Male,38,Clothing,2,484000,968000,Yogyakarta,E-Wallet
+684,2023-06-30,CUST684,Female,28,Household Items,2,325000,650000,Denpasar,E-Wallet
+685,2023-06-02,CUST685,Male,57,Snacks,2,14000,28000,Medan,E-Wallet
+686,2023-07-19,CUST686,Female,28,Clothing,4,463000,1852000,Surabaya,E-Wallet
+687,2023-08-03,CUST687,Female,53,Household Items,1,677000,677000,Denpasar,E-Wallet
+688,2023-10-03,CUST688,Male,56,Snacks,4,10000,40000,Jakarta,E-Wallet
+689,2023-10-07,CUST689,Male,57,Clothing,2,448000,896000,Jakarta,E-Wallet
+690,2023-11-05,CUST690,Female,52,Beauty,3,27000,81000,Surabaya,E-Wallet
+691,2023-04-23,CUST691,Female,51,Electronics,3,953000,2859000,Semarang,Credit Card
+692,2023-09-07,CUST692,Female,64,Clothing,2,276000,552000,Semarang,E-Wallet
+693,2023-04-23,CUST693,Male,41,Fast Food,3,53000,159000,Medan,E-Wallet
+694,2023-05-20,CUST694,Female,39,Electronics,2,232000,464000,Denpasar,E-Wallet
+695,2023-08-12,CUST695,Female,22,Household Items,3,869000,2607000,Bandung,E-Wallet
+696,2023-09-06,CUST696,Female,50,Electronics,4,521000,2084000,Yogyakarta,Credit Card
+697,2023-01-15,CUST697,Male,53,Beauty,1,33000,33000,Yogyakarta,E-Wallet
+698,2023-07-19,CUST698,Female,64,Household Items,1,799000,799000,Semarang,E-Wallet
+699,2023-06-22,CUST699,Female,37,Toys,4,70000,280000,Jakarta,E-Wallet
+700,2023-12-09,CUST700,Male,36,Toys,4,152000,608000,Medan,E-Wallet
+701,2023-12-14,CUST701,Female,52,Fast Food,2,75000,150000,Semarang,E-Wallet
+702,2023-07-27,CUST702,Female,60,Beauty,2,34000,68000,Surabaya,E-Wallet
+703,2023-03-26,CUST703,Male,34,Beauty,2,38000,76000,Medan,E-Wallet
+704,2023-08-28,CUST704,Female,62,Fast Food,3,47000,141000,Surabaya,Cash
+705,2023-03-07,CUST705,Male,60,Household Items,2,663000,1326000,Yogyakarta,E-Wallet
+706,2023-11-15,CUST706,Male,51,Household Items,4,274000,1096000,Medan,E-Wallet
+707,2023-10-01,CUST707,Female,26,Fast Food,1,85000,85000,Yogyakarta,E-Wallet
+708,2023-01-14,CUST708,Female,43,Household Items,3,725000,2175000,Denpasar,Credit Card
+709,2023-07-21,CUST709,Female,19,Electronics,2,1432000,2864000,Denpasar,E-Wallet
+710,2023-10-31,CUST710,Female,26,Snacks,3,9000,27000,Denpasar,E-Wallet
+711,2023-10-16,CUST711,Male,26,Clothing,3,333000,999000,Yogyakarta,E-Wallet
+712,2023-12-06,CUST712,Female,57,Clothing,2,498000,996000,Semarang,E-Wallet
+713,2023-01-14,CUST713,Male,34,Snacks,3,19000,57000,Bandung,E-Wallet
+714,2023-02-12,CUST714,Female,18,Snacks,1,12000,12000,Medan,E-Wallet
+715,2023-11-26,CUST715,Female,42,Snacks,4,15000,60000,Jakarta,E-Wallet
+716,2023-08-08,CUST716,Female,60,Electronics,4,1751000,7004000,Yogyakarta,Credit Card
+717,2023-03-11,CUST717,Male,57,Toys,1,187000,187000,Bandung,E-Wallet
+718,2023-08-25,CUST718,Female,59,Toys,3,191000,573000,Bandung,E-Wallet
+719,2023-04-04,CUST719,Female,42,Beauty,2,36000,72000,Bandung,E-Wallet
+720,2023-01-26,CUST720,Female,56,Clothing,3,299000,897000,Medan,E-Wallet
+721,2023-05-14,CUST721,Female,52,Beauty,1,16000,16000,Bandung,E-Wallet
+722,2023-07-14,CUST722,Male,20,Fast Food,3,24000,72000,Denpasar,E-Wallet
+723,2023-06-17,CUST723,Female,54,Toys,4,52000,208000,Medan,E-Wallet
+724,2023-04-19,CUST724,Male,61,Toys,3,279000,837000,Surabaya,E-Wallet
+725,2023-08-21,CUST725,Male,61,Beauty,1,20000,20000,Semarang,Cash
+726,2023-06-17,CUST726,Male,47,Electronics,4,1623000,6492000,Denpasar,E-Wallet
+727,2023-06-22,CUST727,Male,55,Toys,3,206000,618000,Denpasar,E-Wallet
+728,2023-07-14,CUST728,Male,51,Household Items,3,769000,2307000,Bandung,E-Wallet
+729,2023-05-23,CUST729,Male,29,Fast Food,4,32000,128000,Bandung,E-Wallet
+730,2023-08-04,CUST730,Female,36,Electronics,2,419000,838000,Surabaya,E-Wallet
+731,2023-05-10,CUST731,Male,54,Fast Food,4,31000,124000,Surabaya,E-Wallet
+732,2023-02-11,CUST732,Male,61,Clothing,2,39000,78000,Yogyakarta,Cash
+733,2023-08-29,CUST733,Male,34,Snacks,1,11000,11000,Semarang,E-Wallet
+734,2023-01-10,CUST734,Female,27,Electronics,1,501000,501000,Semarang,E-Wallet
+735,2023-10-04,CUST735,Female,64,Clothing,4,267000,1068000,Bandung,Credit Card
+736,2023-01-27,CUST736,Male,29,Clothing,4,114000,456000,Bandung,E-Wallet
+737,2023-06-29,CUST737,Female,33,Household Items,1,380000,380000,Jakarta,E-Wallet
+738,2023-04-25,CUST738,Male,41,Toys,2,189000,378000,Yogyakarta,E-Wallet
+739,2023-11-29,CUST739,Male,36,Electronics,1,246000,246000,Jakarta,E-Wallet
+740,2023-02-05,CUST740,Female,25,Electronics,4,561000,2244000,Yogyakarta,E-Wallet
+741,2023-11-30,CUST741,Male,48,Household Items,1,992000,992000,Yogyakarta,E-Wallet
+742,2023-01-21,CUST742,Female,38,Fast Food,4,33000,132000,Bandung,E-Wallet
+743,2023-01-16,CUST743,Female,34,Fast Food,4,91000,364000,Denpasar,E-Wallet
+744,2023-05-07,CUST744,Male,40,Electronics,1,296000,296000,Medan,E-Wallet
+745,2023-04-13,CUST745,Male,54,Household Items,2,250000,500000,Yogyakarta,E-Wallet
+746,2023-01-11,CUST746,Female,33,Toys,3,274000,822000,Jakarta,E-Wallet
+747,2023-11-15,CUST747,Male,23,Clothing,1,436000,436000,Medan,E-Wallet
+748,2023-03-20,CUST748,Male,25,Clothing,3,307000,921000,Yogyakarta,E-Wallet
+749,2023-05-03,CUST749,Male,42,Electronics,1,1764000,1764000,Denpasar,E-Wallet
+750,2023-03-06,CUST750,Female,35,Fast Food,3,41000,123000,Denpasar,E-Wallet
+751,2023-08-31,CUST751,Female,42,Beauty,2,32000,64000,Denpasar,E-Wallet
+752,2023-12-09,CUST752,Male,29,Household Items,2,665000,1330000,Denpasar,E-Wallet
+753,2023-02-28,CUST753,Female,32,Fast Food,1,44000,44000,Semarang,E-Wallet
+754,2023-10-16,CUST754,Female,43,Electronics,4,1766000,7064000,Surabaya,Credit Card
+755,2023-04-22,CUST755,Female,58,Clothing,3,491000,1473000,Surabaya,Credit Card
+756,2023-08-27,CUST756,Female,62,Fast Food,4,82000,328000,Jakarta,Cash
+757,2023-12-25,CUST757,Female,43,Snacks,4,9000,36000,Jakarta,E-Wallet
+758,2023-05-12,CUST758,Male,64,Fast Food,4,39000,156000,Jakarta,Cash
+759,2023-07-08,CUST759,Male,49,Beauty,2,36000,72000,Semarang,E-Wallet
+760,2023-03-27,CUST760,Male,27,Fast Food,1,48000,48000,Surabaya,E-Wallet
+761,2023-11-07,CUST761,Female,33,Fast Food,1,23000,23000,Surabaya,E-Wallet
+762,2023-11-07,CUST762,Female,24,Fast Food,2,21000,42000,Surabaya,E-Wallet
+763,2023-02-28,CUST763,Male,34,Fast Food,2,22000,44000,Bandung,E-Wallet
+764,2023-03-25,CUST764,Female,40,Snacks,1,8000,8000,Bandung,E-Wallet
+765,2023-06-09,CUST765,Male,43,Clothing,4,235000,940000,Surabaya,E-Wallet
+766,2023-02-25,CUST766,Male,38,Electronics,3,1595000,4785000,Semarang,E-Wallet
+767,2023-10-24,CUST767,Male,39,Fast Food,3,48000,144000,Semarang,E-Wallet
+768,2023-01-14,CUST768,Female,24,Fast Food,3,99000,297000,Semarang,E-Wallet
+769,2023-06-09,CUST769,Female,31,Clothing,4,241000,964000,Medan,E-Wallet
+770,2023-10-22,CUST770,Male,32,Beauty,1,16000,16000,Semarang,E-Wallet
+771,2023-12-13,CUST771,Male,24,Beauty,2,45000,90000,Denpasar,E-Wallet
+772,2023-07-12,CUST772,Male,26,Fast Food,1,58000,58000,Yogyakarta,E-Wallet
+773,2023-07-23,CUST773,Male,25,Electronics,4,1071000,4284000,Denpasar,E-Wallet
+774,2023-04-12,CUST774,Female,40,Snacks,2,7000,14000,Medan,E-Wallet
+775,2023-02-08,CUST775,Female,46,Clothing,4,473000,1892000,Semarang,Credit Card
+776,2023-10-31,CUST776,Male,35,Clothing,3,455000,1365000,Denpasar,E-Wallet
+777,2023-12-20,CUST777,Male,48,Snacks,3,17000,51000,Jakarta,E-Wallet
+778,2023-11-18,CUST778,Female,47,Household Items,4,207000,828000,Yogyakarta,E-Wallet
+779,2023-05-05,CUST779,Female,56,Electronics,2,1000000,2000000,Medan,Credit Card
+780,2023-02-22,CUST780,Male,52,Beauty,2,23000,46000,Jakarta,E-Wallet
+781,2023-12-23,CUST781,Male,35,Fast Food,1,96000,96000,Medan,E-Wallet
+782,2023-06-04,CUST782,Male,59,Snacks,3,16000,48000,Yogyakarta,E-Wallet
+783,2023-12-17,CUST783,Female,56,Toys,1,191000,191000,Semarang,E-Wallet
+784,2023-11-04,CUST784,Female,34,Fast Food,1,98000,98000,Yogyakarta,E-Wallet
+785,2023-03-03,CUST785,Female,31,Fast Food,4,26000,104000,Surabaya,E-Wallet
+786,2023-10-17,CUST786,Male,48,Beauty,4,17000,68000,Jakarta,E-Wallet
+787,2023-01-22,CUST787,Male,41,Household Items,1,171000,171000,Surabaya,E-Wallet
+788,2023-06-27,CUST788,Female,52,Electronics,3,1600000,4800000,Denpasar,Credit Card
+789,2023-09-30,CUST789,Female,61,Beauty,4,29000,116000,Yogyakarta,Cash
+790,2023-08-08,CUST790,Male,62,Toys,1,234000,234000,Bandung,Cash
+791,2023-12-05,CUST791,Female,51,Fast Food,1,34000,34000,Medan,E-Wallet
+792,2023-07-09,CUST792,Female,20,Toys,1,248000,248000,Denpasar,E-Wallet
+793,2023-02-05,CUST793,Male,54,Beauty,1,34000,34000,Medan,E-Wallet
+794,2023-09-17,CUST794,Female,60,Snacks,1,15000,15000,Medan,E-Wallet
+795,2023-11-28,CUST795,Male,57,Clothing,1,444000,444000,Jakarta,E-Wallet
+796,2023-06-24,CUST796,Male,43,Electronics,4,870000,3480000,Bandung,E-Wallet
+797,2023-01-07,CUST797,Male,40,Electronics,3,504000,1512000,Jakarta,E-Wallet
+798,2023-08-04,CUST798,Male,61,Electronics,1,741000,741000,Medan,E-Wallet
+799,2023-09-08,CUST799,Male,56,Household Items,2,778000,1556000,Denpasar,E-Wallet
+800,2023-02-24,CUST800,Male,32,Fast Food,4,66000,264000,Yogyakarta,E-Wallet
+801,2023-08-10,CUST801,Male,21,Electronics,4,75000,300000,Jakarta,E-Wallet
+802,2023-07-05,CUST802,Female,46,Snacks,1,7000,7000,Surabaya,E-Wallet
+803,2023-11-22,CUST803,Male,39,Clothing,4,104000,416000,Medan,E-Wallet
+804,2023-08-24,CUST804,Male,42,Beauty,1,41000,41000,Jakarta,E-Wallet
+805,2023-12-29,CUST805,Female,30,Clothing,3,256000,768000,Semarang,E-Wallet
+806,2023-03-20,CUST806,Female,35,Household Items,3,433000,1299000,Denpasar,Credit Card
+807,2023-08-11,CUST807,Female,50,Electronics,4,276000,1104000,Jakarta,Credit Card
+808,2023-04-01,CUST808,Male,33,Toys,4,233000,932000,Surabaya,E-Wallet
+809,2023-09-25,CUST809,Female,62,Electronics,2,454000,908000,Semarang,E-Wallet
+810,2023-11-30,CUST810,Male,59,Snacks,4,16000,64000,Bandung,E-Wallet
+811,2023-05-19,CUST811,Male,61,Clothing,2,186000,372000,Jakarta,Cash
+812,2023-11-12,CUST812,Male,19,Beauty,3,38000,114000,Bandung,E-Wallet
+813,2023-10-03,CUST813,Male,52,Beauty,3,50000,150000,Jakarta,E-Wallet
+814,2023-09-05,CUST814,Female,59,Toys,1,190000,190000,Surabaya,E-Wallet
+815,2023-08-27,CUST815,Female,51,Beauty,3,39000,117000,Denpasar,E-Wallet
+816,2023-08-12,CUST816,Male,47,Fast Food,2,23000,46000,Surabaya,E-Wallet
+817,2023-10-31,CUST817,Male,30,Electronics,4,1940000,7760000,Jakarta,Credit Card
+818,2023-05-18,CUST818,Male,30,Electronics,1,191000,191000,Bandung,E-Wallet
+819,2023-06-15,CUST819,Female,35,Clothing,2,299000,598000,Jakarta,E-Wallet
+820,2023-05-06,CUST820,Male,49,Beauty,4,21000,84000,Semarang,E-Wallet
+821,2023-02-14,CUST821,Male,49,Electronics,1,95000,95000,Bandung,E-Wallet
+822,2023-05-23,CUST822,Female,52,Fast Food,3,36000,108000,Semarang,E-Wallet
+823,2023-08-19,CUST823,Female,56,Clothing,2,256000,512000,Yogyakarta,E-Wallet
+824,2023-05-05,CUST824,Male,63,Toys,4,53000,212000,Semarang,Cash
+825,2023-08-26,CUST825,Female,46,Electronics,1,1711000,1711000,Semarang,Credit Card
+826,2023-10-19,CUST826,Female,46,Toys,1,172000,172000,Semarang,E-Wallet
+827,2023-11-09,CUST827,Male,61,Clothing,3,429000,1287000,Bandung,Credit Card
+828,2023-12-09,CUST828,Female,33,Electronics,4,314000,1256000,Medan,Credit Card
+829,2023-07-14,CUST829,Male,61,Electronics,3,1383000,4149000,Yogyakarta,Credit Card
+830,2023-06-22,CUST830,Female,64,Electronics,3,934000,2802000,Medan,Credit Card
+831,2023-01-15,CUST831,Male,27,Snacks,4,6000,24000,Semarang,E-Wallet
+832,2023-09-11,CUST832,Male,47,Electronics,4,1793000,7172000,Yogyakarta,E-Wallet
+833,2023-06-16,CUST833,Male,42,Toys,4,242000,968000,Surabaya,E-Wallet
+834,2023-04-04,CUST834,Female,56,Clothing,2,394000,788000,Medan,E-Wallet
+835,2023-09-07,CUST835,Male,37,Toys,4,134000,536000,Bandung,E-Wallet
+836,2023-04-19,CUST836,Female,22,Snacks,1,13000,13000,Bandung,E-Wallet
+837,2023-07-01,CUST837,Male,18,Electronics,3,867000,2601000,Jakarta,E-Wallet
+838,2023-05-13,CUST838,Male,47,Household Items,2,809000,1618000,Bandung,E-Wallet
+839,2023-06-24,CUST839,Female,20,Clothing,4,451000,1804000,Medan,E-Wallet
+840,2023-05-24,CUST840,Male,62,Clothing,2,289000,578000,Semarang,E-Wallet
+841,2023-11-02,CUST841,Male,31,Household Items,4,514000,2056000,Denpasar,E-Wallet
+842,2023-12-26,CUST842,Female,47,Fast Food,2,25000,50000,Jakarta,E-Wallet
+843,2023-05-22,CUST843,Male,21,Fast Food,3,90000,270000,Medan,E-Wallet
+844,2023-10-12,CUST844,Male,35,Electronics,3,916000,2748000,Medan,E-Wallet
+845,2023-01-06,CUST845,Male,54,Clothing,1,253000,253000,Surabaya,E-Wallet
+846,2023-09-22,CUST846,Male,42,Toys,1,118000,118000,Bandung,E-Wallet
+847,2023-04-08,CUST847,Female,18,Toys,4,103000,412000,Bandung,E-Wallet
+848,2023-02-13,CUST848,Female,63,Toys,3,167000,501000,Jakarta,E-Wallet
+849,2023-05-04,CUST849,Male,32,Beauty,2,23000,46000,Bandung,E-Wallet
+850,2023-07-28,CUST850,Female,26,Toys,2,288000,576000,Surabaya,E-Wallet
+851,2023-09-08,CUST851,Male,32,Snacks,2,7000,14000,Denpasar,E-Wallet
+852,2023-10-12,CUST852,Female,41,Beauty,1,29000,29000,Surabaya,E-Wallet
+853,2023-05-04,CUST853,Male,21,Snacks,2,12000,24000,Jakarta,E-Wallet
+854,2023-12-20,CUST854,Male,29,Electronics,1,321000,321000,Semarang,E-Wallet
+855,2023-09-01,CUST855,Male,54,Fast Food,1,35000,35000,Surabaya,E-Wallet
+856,2023-11-27,CUST856,Male,54,Household Items,4,865000,3460000,Semarang,E-Wallet
+857,2023-12-31,CUST857,Male,60,Beauty,2,22000,44000,Yogyakarta,E-Wallet
+858,2023-09-09,CUST858,Male,23,Beauty,2,17000,34000,Denpasar,E-Wallet
+859,2023-08-18,CUST859,Female,56,Snacks,3,12000,36000,Semarang,E-Wallet
+860,2023-01-09,CUST860,Male,63,Toys,4,245000,980000,Jakarta,E-Wallet
+861,2023-02-17,CUST861,Female,41,Clothing,3,499000,1497000,Bandung,Credit Card
+862,2023-05-31,CUST862,Male,28,Toys,4,87000,348000,Surabaya,E-Wallet
+863,2023-04-24,CUST863,Female,30,Beauty,2,36000,72000,Medan,E-Wallet
+864,2023-07-27,CUST864,Female,51,Fast Food,1,51000,51000,Medan,E-Wallet
+865,2023-12-21,CUST865,Female,42,Beauty,1,14000,14000,Bandung,E-Wallet
+866,2023-05-05,CUST866,Male,24,Beauty,1,48000,48000,Surabaya,E-Wallet
+867,2023-06-06,CUST867,Male,21,Beauty,1,13000,13000,Semarang,E-Wallet
+868,2023-12-06,CUST868,Female,25,Beauty,1,47000,47000,Yogyakarta,E-Wallet
+869,2023-10-25,CUST869,Male,37,Toys,3,216000,648000,Medan,E-Wallet
+870,2023-07-08,CUST870,Female,46,Toys,4,149000,596000,Semarang,E-Wallet
+871,2023-08-31,CUST871,Male,62,Beauty,2,35000,70000,Surabaya,Cash
+872,2023-10-11,CUST872,Female,63,Electronics,3,90000,270000,Denpasar,Cash
+873,2023-09-29,CUST873,Female,27,Snacks,4,13000,52000,Jakarta,E-Wallet
+874,2023-06-26,CUST874,Male,60,Toys,1,62000,62000,Jakarta,E-Wallet
+875,2023-08-06,CUST875,Female,51,Snacks,4,11000,44000,Jakarta,E-Wallet
+876,2023-10-09,CUST876,Male,43,Electronics,4,338000,1352000,Semarang,E-Wallet
+877,2023-06-19,CUST877,Female,58,Electronics,1,62000,62000,Denpasar,E-Wallet
+878,2023-06-30,CUST878,Female,20,Toys,1,182000,182000,Yogyakarta,E-Wallet
+879,2023-12-26,CUST879,Male,23,Electronics,1,655000,655000,Medan,E-Wallet
+880,2023-08-21,CUST880,Male,22,Toys,2,188000,376000,Bandung,E-Wallet
+881,2023-05-19,CUST881,Male,22,Clothing,1,259000,259000,Bandung,E-Wallet
+882,2023-06-06,CUST882,Female,64,Snacks,2,19000,38000,Surabaya,Cash
+883,2023-05-09,CUST883,Male,40,Toys,1,84000,84000,Jakarta,E-Wallet
+884,2023-04-29,CUST884,Female,26,Snacks,2,11000,22000,Bandung,E-Wallet
+885,2023-03-03,CUST885,Female,52,Clothing,4,114000,456000,Jakarta,E-Wallet
+886,2023-04-09,CUST886,Male,37,Electronics,3,1459000,4377000,Semarang,E-Wallet
+887,2023-06-11,CUST887,Male,59,Beauty,4,23000,92000,Semarang,E-Wallet
+888,2023-03-03,CUST888,Female,52,Toys,4,188000,752000,Yogyakarta,E-Wallet
+889,2023-10-02,CUST889,Female,35,Household Items,1,288000,288000,Semarang,E-Wallet
+890,2023-12-20,CUST890,Male,34,Snacks,2,12000,24000,Denpasar,E-Wallet
+891,2023-04-05,CUST891,Male,41,Toys,3,270000,810000,Jakarta,E-Wallet
+892,2023-04-09,CUST892,Male,20,Beauty,1,17000,17000,Surabaya,E-Wallet
+893,2023-04-21,CUST893,Male,49,Beauty,1,48000,48000,Denpasar,E-Wallet
+894,2023-09-05,CUST894,Male,52,Clothing,1,444000,444000,Denpasar,E-Wallet
+895,2023-05-22,CUST895,Female,55,Toys,4,129000,516000,Bandung,E-Wallet
+896,2023-10-29,CUST896,Female,30,Clothing,2,143000,286000,Semarang,E-Wallet
+897,2023-09-26,CUST897,Female,64,Beauty,2,48000,96000,Jakarta,Cash
+898,2023-11-02,CUST898,Female,42,Household Items,3,195000,585000,Jakarta,E-Wallet
+899,2023-05-25,CUST899,Male,26,Toys,2,70000,140000,Denpasar,E-Wallet
+900,2023-02-21,CUST900,Male,21,Toys,2,242000,484000,Medan,E-Wallet
+901,2023-04-10,CUST901,Male,31,Fast Food,1,85000,85000,Yogyakarta,E-Wallet
+902,2023-06-01,CUST902,Female,54,Fast Food,1,94000,94000,Denpasar,E-Wallet
+903,2023-04-27,CUST903,Female,51,Household Items,4,203000,812000,Yogyakarta,E-Wallet
+904,2023-07-04,CUST904,Male,28,Fast Food,1,34000,34000,Semarang,E-Wallet
+905,2023-04-02,CUST905,Male,58,Snacks,1,14000,14000,Semarang,E-Wallet
+906,2023-06-04,CUST906,Female,20,Electronics,1,1100000,1100000,Denpasar,E-Wallet
+907,2023-01-08,CUST907,Female,45,Household Items,1,723000,723000,Denpasar,E-Wallet
+908,2023-12-29,CUST908,Male,46,Toys,4,149000,596000,Yogyakarta,E-Wallet
+909,2023-10-01,CUST909,Male,26,Household Items,1,506000,506000,Medan,E-Wallet
+910,2023-03-06,CUST910,Female,20,Beauty,3,37000,111000,Jakarta,E-Wallet
+911,2023-05-21,CUST911,Male,42,Snacks,3,10000,30000,Yogyakarta,E-Wallet
+912,2023-01-24,CUST912,Male,51,Fast Food,3,66000,198000,Jakarta,E-Wallet
+913,2023-01-28,CUST913,Male,29,Electronics,3,1713000,5139000,Surabaya,Credit Card
+914,2023-10-11,CUST914,Female,59,Household Items,1,826000,826000,Surabaya,E-Wallet
+915,2023-05-30,CUST915,Female,26,Clothing,3,493000,1479000,Yogyakarta,E-Wallet
+916,2023-12-24,CUST916,Female,32,Snacks,1,6000,6000,Yogyakarta,E-Wallet
+917,2023-03-06,CUST917,Female,57,Fast Food,4,32000,128000,Bandung,E-Wallet
+918,2023-11-23,CUST918,Female,42,Fast Food,3,63000,189000,Jakarta,E-Wallet
+919,2023-09-09,CUST919,Female,22,Clothing,2,221000,442000,Yogyakarta,E-Wallet
+920,2023-02-22,CUST920,Female,28,Clothing,3,173000,519000,Yogyakarta,E-Wallet
+921,2023-01-07,CUST921,Male,51,Electronics,3,682000,2046000,Denpasar,E-Wallet
+922,2023-10-21,CUST922,Male,41,Clothing,1,136000,136000,Bandung,E-Wallet
+923,2023-05-26,CUST923,Male,32,Beauty,3,49000,147000,Semarang,E-Wallet
+924,2023-08-29,CUST924,Male,55,Toys,2,133000,266000,Semarang,E-Wallet
+925,2023-09-03,CUST925,Male,25,Electronics,1,938000,938000,Semarang,E-Wallet
+926,2023-08-14,CUST926,Male,22,Toys,1,278000,278000,Yogyakarta,E-Wallet
+927,2023-06-24,CUST927,Male,43,Beauty,4,48000,192000,Yogyakarta,E-Wallet
+928,2023-04-05,CUST928,Female,35,Beauty,4,32000,128000,Surabaya,E-Wallet
+929,2023-01-27,CUST929,Female,23,Beauty,3,13000,39000,Medan,E-Wallet
+930,2023-05-10,CUST930,Male,54,Electronics,4,1040000,4160000,Medan,E-Wallet
+931,2023-09-02,CUST931,Male,30,Beauty,4,17000,68000,Yogyakarta,E-Wallet
+932,2023-02-28,CUST932,Female,45,Beauty,4,33000,132000,Bandung,E-Wallet
+933,2023-02-03,CUST933,Male,22,Toys,1,147000,147000,Bandung,E-Wallet
+934,2023-07-25,CUST934,Male,30,Fast Food,1,28000,28000,Bandung,E-Wallet
+935,2023-09-09,CUST935,Female,34,Electronics,1,1012000,1012000,Medan,Credit Card
+936,2023-02-07,CUST936,Male,57,Fast Food,4,23000,92000,Semarang,E-Wallet
+937,2023-10-23,CUST937,Female,62,Toys,1,159000,159000,Jakarta,Cash
+938,2023-11-19,CUST938,Male,49,Household Items,4,899000,3596000,Surabaya,E-Wallet
+939,2023-12-18,CUST939,Female,46,Electronics,1,641000,641000,Bandung,E-Wallet
+940,2023-01-28,CUST940,Female,20,Household Items,1,659000,659000,Yogyakarta,E-Wallet
+941,2023-03-19,CUST941,Female,57,Household Items,2,323000,646000,Jakarta,E-Wallet
+942,2023-03-18,CUST942,Male,51,Snacks,3,18000,54000,Yogyakarta,E-Wallet
+943,2023-10-16,CUST943,Female,57,Electronics,4,311000,1244000,Surabaya,Credit Card
+944,2023-06-05,CUST944,Male,44,Toys,2,172000,344000,Semarang,E-Wallet
+945,2023-02-13,CUST945,Male,30,Snacks,1,8000,8000,Denpasar,E-Wallet
+946,2023-05-08,CUST946,Male,62,Household Items,4,230000,920000,Medan,E-Wallet
+947,2023-03-02,CUST947,Male,50,Beauty,1,45000,45000,Bandung,E-Wallet
+948,2023-10-13,CUST948,Female,23,Household Items,3,565000,1695000,Bandung,E-Wallet
+949,2023-08-02,CUST949,Female,41,Household Items,2,228000,456000,Bandung,E-Wallet
+950,2023-11-07,CUST950,Male,36,Beauty,3,37000,111000,Yogyakarta,E-Wallet
+951,2023-11-02,CUST951,Male,33,Clothing,2,357000,714000,Yogyakarta,E-Wallet
+952,2023-11-13,CUST952,Female,57,Beauty,1,43000,43000,Semarang,E-Wallet
+953,2023-04-26,CUST953,Male,45,Snacks,3,17000,51000,Medan,E-Wallet
+954,2023-09-25,CUST954,Female,50,Toys,3,73000,219000,Jakarta,E-Wallet
+955,2023-07-14,CUST955,Male,58,Beauty,1,35000,35000,Yogyakarta,E-Wallet
+956,2023-08-19,CUST956,Male,30,Clothing,3,498000,1494000,Jakarta,E-Wallet
+957,2023-08-15,CUST957,Female,60,Household Items,4,339000,1356000,Denpasar,Credit Card
+958,2023-06-02,CUST958,Male,62,Household Items,2,340000,680000,Medan,E-Wallet
+959,2023-10-29,CUST959,Female,42,Snacks,2,5000,10000,Medan,E-Wallet
+960,2023-08-08,CUST960,Male,59,Clothing,2,29000,58000,Denpasar,E-Wallet
+961,2023-06-06,CUST961,Male,53,Fast Food,4,76000,304000,Semarang,E-Wallet
+962,2023-10-19,CUST962,Male,44,Electronics,2,554000,1108000,Denpasar,E-Wallet
+963,2023-11-14,CUST963,Female,55,Beauty,1,45000,45000,Semarang,E-Wallet
+964,2023-01-31,CUST964,Male,24,Electronics,3,1527000,4581000,Jakarta,E-Wallet
+965,2023-11-09,CUST965,Male,22,Fast Food,4,29000,116000,Medan,E-Wallet
+966,2023-02-20,CUST966,Male,60,Household Items,2,422000,844000,Bandung,E-Wallet
+967,2023-04-17,CUST967,Male,62,Electronics,1,399000,399000,Jakarta,Cash
+968,2023-11-17,CUST968,Female,48,Beauty,3,22000,66000,Yogyakarta,E-Wallet
+969,2023-04-19,CUST969,Female,40,Electronics,3,1272000,3816000,Medan,Credit Card
+970,2023-05-16,CUST970,Male,59,Household Items,4,906000,3624000,Bandung,E-Wallet
+971,2023-12-05,CUST971,Female,27,Household Items,4,373000,1492000,Medan,E-Wallet
+972,2023-02-11,CUST972,Male,49,Beauty,4,35000,140000,Jakarta,E-Wallet
+973,2023-03-22,CUST973,Male,60,Electronics,1,1067000,1067000,Denpasar,E-Wallet
+974,2023-05-03,CUST974,Male,47,Electronics,1,1955000,1955000,Medan,E-Wallet
+975,2023-03-30,CUST975,Female,56,Beauty,4,14000,56000,Jakarta,E-Wallet
+976,2023-10-10,CUST976,Female,48,Snacks,2,17000,34000,Semarang,E-Wallet
+977,2023-02-08,CUST977,Female,35,Clothing,3,218000,654000,Yogyakarta,E-Wallet
+978,2023-03-22,CUST978,Female,53,Electronics,3,1552000,4656000,Bandung,Credit Card
+979,2023-01-02,CUST979,Female,19,Electronics,1,1920000,1920000,Jakarta,E-Wallet
+980,2023-07-29,CUST980,Female,31,Household Items,3,470000,1410000,Yogyakarta,Credit Card
+981,2023-08-19,CUST981,Female,30,Fast Food,2,39000,78000,Surabaya,E-Wallet
+982,2023-12-19,CUST982,Female,46,Snacks,3,12000,36000,Surabaya,E-Wallet
+983,2023-11-01,CUST983,Female,29,Clothing,1,317000,317000,Surabaya,E-Wallet
+984,2023-08-29,CUST984,Male,56,Snacks,1,18000,18000,Semarang,E-Wallet
+985,2023-05-30,CUST985,Female,19,Clothing,2,416000,832000,Bandung,E-Wallet
+986,2023-01-17,CUST986,Female,49,Beauty,2,20000,40000,Yogyakarta,E-Wallet
+987,2023-04-29,CUST987,Female,30,Electronics,3,1458000,4374000,Bandung,E-Wallet
+988,2023-05-28,CUST988,Female,63,Fast Food,3,21000,63000,Denpasar,Cash
+989,2023-12-28,CUST989,Female,44,Clothing,1,432000,432000,Yogyakarta,E-Wallet
+990,2023-05-25,CUST990,Female,58,Snacks,2,9000,18000,Bandung,E-Wallet
+991,2023-12-26,CUST991,Female,34,Electronics,2,1985000,3970000,Denpasar,Credit Card
+992,2023-08-21,CUST992,Female,57,Fast Food,2,84000,168000,Bandung,E-Wallet
+993,2023-02-06,CUST993,Female,48,Snacks,3,6000,18000,Yogyakarta,E-Wallet
+994,2023-12-18,CUST994,Female,51,Electronics,2,970000,1940000,Bandung,Credit Card
+995,2023-04-30,CUST995,Female,41,Electronics,1,1026000,1026000,Semarang,Credit Card
+996,2023-05-16,CUST996,Male,62,Fast Food,1,36000,36000,Surabaya,Cash
+997,2023-11-17,CUST997,Male,52,Electronics,3,781000,2343000,Medan,E-Wallet
+998,2023-10-29,CUST998,Female,23,Snacks,4,15000,60000,Semarang,E-Wallet
+999,2023-12-05,CUST999,Female,36,Fast Food,3,69000,207000,Medan,E-Wallet
+1000,2023-04-12,CUST1000,Male,47,Beauty,4,36000,144000,Denpasar,E-Wallet
